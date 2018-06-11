@@ -1,0 +1,641 @@
+question_type,scene_number,seed,question,answer,object_id,container_id
+1,3,513429420,How many loaves of bread are there in the room?,0,12,21
+1,3,968517303,There are between 0 and 3 loaves of bread in the room. How many are there?,1,12,21
+1,3,86994424,Count the number of loaves of bread in this room.,2,12,21
+1,3,294360230,Please tell me how many loaves of bread there are somewhere in the room?,3,12,21
+1,3,591437094,How many heads of lettuce are there in the room?,0,8,21
+1,3,844228734,How many heads of lettuce are there in the room?,1,8,21
+1,3,201332866,Please tell me how many heads of lettuce there are somewhere in the room?,2,8,21
+1,3,343789206,Please tell me how many heads of lettuce are around here?,3,8,21
+1,3,252711244,Please tell me how many bowls there are somewhere in the room?,0,7,21
+1,3,428664692,How many bowls are there in the room?,1,7,21
+1,3,720057379,How many bowls are there in the room?,2,7,21
+1,3,945528384,How many bowls are there in the room?,3,7,21
+1,3,38929949,How many bowls are there in the room?,0,7,21
+1,3,913256234,There are between 0 and 3 bowls in the room. How many are there?,1,7,21
+1,3,473118579,Count the number of bowls in this room.,2,7,21
+1,3,784270206,How many bowls are there in the room?,3,7,21
+1,3,955539976,Count the number of containers in this room.,0,11,21
+1,3,247015419,How many containers are there in the room?,1,11,21
+1,3,727259642,Count the number of containers in this room.,2,11,21
+1,3,136215053,How many containers are there in the room?,3,11,21
+1,3,15414439,How many potatoes are there in the room?,0,2,21
+1,3,814764828,Please tell me how many potatoes there are somewhere in the room?,1,2,21
+1,3,54580864,Please tell me how many potatoes are around here?,2,2,21
+1,3,68247889,How many potatoes are there in the room?,3,2,21
+1,3,164461023,How many eggs are there in the room?,0,5,21
+1,3,687998816,Please tell me how many eggs are around here?,1,5,21
+1,3,107741354,Count the number of eggs in this room.,2,5,21
+1,3,91646856,There are between 0 and 3 eggs in the room. How many are there?,3,5,21
+1,3,529418102,Count the number of loaves of bread in this room.,0,12,21
+1,3,328594592,There are between 0 and 3 loaves of bread in the room. How many are there?,1,12,21
+1,3,269554771,There are between 0 and 3 loaves of bread in the room. How many are there?,2,12,21
+1,3,406341362,There are between 0 and 3 loaves of bread in the room. How many are there?,3,12,21
+1,4,332809591,Please tell me how many plates there are somewhere in the room?,0,4,21
+1,4,723024698,Please tell me how many plates there are somewhere in the room?,1,4,21
+1,4,653048457,Please tell me how many plates are around here?,2,4,21
+1,4,410882234,Please tell me how many plates there are somewhere in the room?,3,4,21
+1,4,339402594,Count the number of eggs in this room.,0,5,21
+1,4,607395968,There are between 0 and 3 eggs in the room. How many are there?,1,5,21
+1,4,645260067,Count the number of eggs in this room.,2,5,21
+1,4,310441518,There are between 0 and 3 eggs in the room. How many are there?,3,5,21
+1,4,985952778,Count the number of heads of lettuce in this room.,0,8,21
+1,4,598219627,Please tell me how many heads of lettuce are around here?,1,8,21
+1,4,127581567,How many heads of lettuce are there in the room?,2,8,21
+1,4,127498097,How many heads of lettuce are there in the room?,3,8,21
+1,4,65144932,Please tell me how many forks are around here?,0,3,21
+1,4,639788899,Please tell me how many forks there are somewhere in the room?,1,3,21
+1,4,74804440,Please tell me how many forks are around here?,2,3,21
+1,4,845899117,Please tell me how many forks there are somewhere in the room?,3,3,21
+1,4,35033776,Count the number of plates in this room.,0,4,21
+1,4,813294017,There are between 0 and 3 plates in the room. How many are there?,1,4,21
+1,4,787110180,How many plates are there in the room?,2,4,21
+1,4,776296993,Count the number of plates in this room.,3,4,21
+1,4,75145823,Please tell me how many plates there are somewhere in the room?,0,4,21
+1,4,3088421,There are between 0 and 3 plates in the room. How many are there?,1,4,21
+1,4,992460753,Count the number of plates in this room.,2,4,21
+1,4,666304879,Please tell me how many plates are around here?,3,4,21
+1,4,364212202,Please tell me how many potatoes are around here?,0,2,21
+1,4,259771944,There are between 0 and 3 potatoes in the room. How many are there?,1,2,21
+1,4,385721736,There are between 0 and 3 potatoes in the room. How many are there?,2,2,21
+1,4,362531827,Please tell me how many potatoes are around here?,3,2,21
+1,4,543415491,Please tell me how many plates are around here?,0,4,21
+1,4,678119096,How many plates are there in the room?,1,4,21
+1,4,156966648,Please tell me how many plates there are somewhere in the room?,2,4,21
+1,4,717776535,Please tell me how many plates are around here?,3,4,21
+1,5,56714889,There are between 0 and 3 spoons in the room. How many are there?,0,1,21
+1,5,749263183,Count the number of spoons in this room.,1,1,21
+1,5,959844586,There are between 0 and 3 spoons in the room. How many are there?,2,1,21
+1,5,393652455,Please tell me how many spoons there are somewhere in the room?,3,1,21
+1,5,875521562,There are between 0 and 3 apples in the room. How many are there?,0,9,21
+1,5,645120638,Count the number of apples in this room.,1,9,21
+1,5,153720597,Please tell me how many apples there are somewhere in the room?,2,9,21
+1,5,884074112,How many apples are there in the room?,3,9,21
+1,5,865496130,How many containers are there in the room?,0,11,21
+1,5,100625798,There are between 0 and 3 containers in the room. How many are there?,1,11,21
+1,5,560967866,Count the number of containers in this room.,2,11,21
+1,5,156624139,There are between 0 and 3 containers in the room. How many are there?,3,11,21
+1,5,221859139,Please tell me how many bowls are around here?,0,7,21
+1,5,226587235,There are between 0 and 3 bowls in the room. How many are there?,1,7,21
+1,5,851541278,Please tell me how many bowls are around here?,2,7,21
+1,5,979200043,Please tell me how many bowls are around here?,3,7,21
+1,3,218696943,Please tell me how many forks are around here?,0,3,21
+1,3,202663206,Please tell me how many forks are around here?,1,3,21
+1,3,338932746,Please tell me how many forks are around here?,2,3,21
+1,3,779979329,Please tell me how many forks there are somewhere in the room?,3,3,21
+1,3,238324231,There are between 0 and 3 apples in the room. How many are there?,0,9,21
+1,3,48433192,Count the number of apples in this room.,1,9,21
+1,3,512533898,There are between 0 and 3 apples in the room. How many are there?,2,9,21
+1,3,893845027,Count the number of apples in this room.,3,9,21
+1,3,489713032,Please tell me how many plates there are somewhere in the room?,0,4,21
+1,3,657084814,Please tell me how many plates are around here?,1,4,21
+1,3,632975283,How many plates are there in the room?,2,4,21
+1,3,55612220,Count the number of plates in this room.,3,4,21
+1,3,490772001,Count the number of potatoes in this room.,0,2,21
+1,3,590388211,Count the number of potatoes in this room.,1,2,21
+1,3,95560818,Count the number of potatoes in this room.,2,2,21
+1,3,946836994,Please tell me how many potatoes there are somewhere in the room?,3,2,21
+1,3,572851146,Please tell me how many apples are around here?,0,9,21
+1,3,31247117,Count the number of apples in this room.,1,9,21
+1,3,668956856,Count the number of apples in this room.,2,9,21
+1,3,740703220,Please tell me how many apples are around here?,3,9,21
+1,3,373625136,Count the number of apples in this room.,0,9,21
+1,3,436866142,Count the number of apples in this room.,1,9,21
+1,3,954252450,Please tell me how many apples there are somewhere in the room?,2,9,21
+1,3,373927982,How many apples are there in the room?,3,9,21
+1,3,959608240,Please tell me how many apples there are somewhere in the room?,0,9,21
+1,3,67126591,Please tell me how many apples are around here?,1,9,21
+1,3,307874301,How many apples are there in the room?,2,9,21
+1,3,281980597,How many apples are there in the room?,3,9,21
+1,3,230798913,Please tell me how many eggs are around here?,0,5,21
+1,3,716153863,How many eggs are there in the room?,1,5,21
+1,3,159796999,Count the number of eggs in this room.,2,5,21
+1,3,552525265,How many eggs are there in the room?,3,5,21
+1,4,490054794,There are between 0 and 3 tomatoes in the room. How many are there?,0,6,21
+1,4,346291335,There are between 0 and 3 tomatoes in the room. How many are there?,1,6,21
+1,4,984959477,There are between 0 and 3 tomatoes in the room. How many are there?,2,6,21
+1,4,79292650,There are between 0 and 3 tomatoes in the room. How many are there?,3,6,21
+1,4,611524230,Please tell me how many loaves of bread are around here?,0,12,21
+1,4,942450485,Please tell me how many loaves of bread there are somewhere in the room?,1,12,21
+1,4,43619744,Please tell me how many loaves of bread there are somewhere in the room?,2,12,21
+1,4,279876479,Count the number of loaves of bread in this room.,3,12,21
+1,4,817308580,Please tell me how many plates there are somewhere in the room?,0,4,21
+1,4,779058568,How many plates are there in the room?,1,4,21
+1,4,284262708,There are between 0 and 3 plates in the room. How many are there?,2,4,21
+1,4,151119775,How many plates are there in the room?,3,4,21
+1,4,64786517,There are between 0 and 3 bowls in the room. How many are there?,0,7,21
+1,4,246837870,How many bowls are there in the room?,1,7,21
+1,4,512678015,There are between 0 and 3 bowls in the room. How many are there?,2,7,21
+1,4,723891750,How many bowls are there in the room?,3,7,21
+1,4,195054273,Please tell me how many containers there are somewhere in the room?,0,11,21
+1,4,802658464,How many containers are there in the room?,1,11,21
+1,4,112012167,Please tell me how many containers there are somewhere in the room?,2,11,21
+1,4,144843287,Please tell me how many containers are around here?,3,11,21
+1,4,123627117,Please tell me how many apples there are somewhere in the room?,0,9,21
+1,4,973859788,Please tell me how many apples there are somewhere in the room?,1,9,21
+1,4,759812098,There are between 0 and 3 apples in the room. How many are there?,2,9,21
+1,4,811873427,There are between 0 and 3 apples in the room. How many are there?,3,9,21
+1,4,739733882,Please tell me how many bowls there are somewhere in the room?,0,7,21
+1,4,48623354,Please tell me how many bowls there are somewhere in the room?,1,7,21
+1,4,983778744,Count the number of bowls in this room.,2,7,21
+1,4,150367738,Please tell me how many bowls there are somewhere in the room?,3,7,21
+1,4,158268320,Please tell me how many knives there are somewhere in the room?,0,10,21
+1,4,735230061,Please tell me how many knives there are somewhere in the room?,1,10,21
+1,4,32055164,How many knives are there in the room?,2,10,21
+1,4,671182919,There are between 0 and 3 knives in the room. How many are there?,3,10,21
+1,5,783645900,How many spoons are there in the room?,0,1,21
+1,5,142833539,There are between 0 and 3 spoons in the room. How many are there?,1,1,21
+1,5,416638608,Count the number of spoons in this room.,2,1,21
+1,5,490998660,There are between 0 and 3 spoons in the room. How many are there?,3,1,21
+1,5,903692118,Please tell me how many bowls are around here?,0,7,21
+1,5,971086534,Count the number of bowls in this room.,1,7,21
+1,5,590937731,Please tell me how many bowls are around here?,2,7,21
+1,5,106878600,Please tell me how many bowls there are somewhere in the room?,3,7,21
+1,5,648144499,Please tell me how many mugs there are somewhere in the room?,0,13,21
+1,5,63600311,Please tell me how many mugs are around here?,1,13,21
+1,5,368933111,Count the number of mugs in this room.,2,13,21
+1,5,97964122,Please tell me how many mugs are around here?,3,13,21
+1,5,755036402,Please tell me how many mugs there are somewhere in the room?,0,13,21
+1,5,750947186,How many mugs are there in the room?,1,13,21
+1,5,950726723,How many mugs are there in the room?,2,13,21
+1,5,928225296,Count the number of mugs in this room.,3,13,21
+1,3,901605005,How many bowls are there in the room?,0,7,21
+1,3,730515956,How many bowls are there in the room?,1,7,21
+1,3,154579498,There are between 0 and 3 bowls in the room. How many are there?,2,7,21
+1,3,943072113,How many bowls are there in the room?,3,7,21
+1,3,769509088,Please tell me how many containers are around here?,0,11,21
+1,3,236541446,Please tell me how many containers there are somewhere in the room?,1,11,21
+1,3,573750247,How many containers are there in the room?,2,11,21
+1,3,814180023,Count the number of containers in this room.,3,11,21
+1,3,71471306,Please tell me how many forks are around here?,0,3,21
+1,3,747175821,Please tell me how many forks are around here?,1,3,21
+1,3,235614263,Count the number of forks in this room.,2,3,21
+1,3,721122097,How many forks are there in the room?,3,3,21
+1,3,399139913,Please tell me how many eggs there are somewhere in the room?,0,5,21
+1,3,520325499,There are between 0 and 3 eggs in the room. How many are there?,1,5,21
+1,3,885617104,There are between 0 and 3 eggs in the room. How many are there?,2,5,21
+1,3,473812036,How many eggs are there in the room?,3,5,21
+1,3,370322991,Count the number of plates in this room.,0,4,21
+1,3,918161907,How many plates are there in the room?,1,4,21
+1,3,639792995,Please tell me how many plates there are somewhere in the room?,2,4,21
+1,3,577871335,Please tell me how many plates there are somewhere in the room?,3,4,21
+1,3,153817621,Count the number of bowls in this room.,0,7,21
+1,3,767783102,Count the number of bowls in this room.,1,7,21
+1,3,898723549,How many bowls are there in the room?,2,7,21
+1,3,365520887,Please tell me how many bowls are around here?,3,7,21
+1,3,7839804,Count the number of tomatoes in this room.,0,6,21
+1,3,486273312,How many tomatoes are there in the room?,1,6,21
+1,3,743897501,Please tell me how many tomatoes there are somewhere in the room?,2,6,21
+1,3,634952859,How many tomatoes are there in the room?,3,6,21
+1,3,221345354,Count the number of loaves of bread in this room.,0,12,21
+1,3,435040002,There are between 0 and 3 loaves of bread in the room. How many are there?,1,12,21
+1,3,946440592,There are between 0 and 3 loaves of bread in the room. How many are there?,2,12,21
+1,3,425537308,There are between 0 and 3 loaves of bread in the room. How many are there?,3,12,21
+1,4,744156248,Please tell me how many eggs are around here?,0,5,21
+1,4,907780072,There are between 0 and 3 eggs in the room. How many are there?,1,5,21
+1,4,681107545,There are between 0 and 3 eggs in the room. How many are there?,2,5,21
+1,4,12184950,How many eggs are there in the room?,3,5,21
+1,4,708557076,Count the number of eggs in this room.,0,5,21
+1,4,420286477,How many eggs are there in the room?,1,5,21
+1,4,54188068,There are between 0 and 3 eggs in the room. How many are there?,2,5,21
+1,4,942187792,Please tell me how many eggs are around here?,3,5,21
+1,4,71985216,There are between 0 and 3 loaves of bread in the room. How many are there?,0,12,21
+1,4,731977681,Please tell me how many loaves of bread are around here?,1,12,21
+1,4,537261679,Please tell me how many loaves of bread there are somewhere in the room?,2,12,21
+1,4,941198853,There are between 0 and 3 loaves of bread in the room. How many are there?,3,12,21
+1,4,704142170,Please tell me how many spoons there are somewhere in the room?,0,1,21
+1,4,139677458,There are between 0 and 3 spoons in the room. How many are there?,1,1,21
+1,4,3715099,Count the number of spoons in this room.,2,1,21
+1,4,523705533,Count the number of spoons in this room.,3,1,21
+1,4,809070908,Please tell me how many plates are around here?,0,4,21
+1,4,395926584,How many plates are there in the room?,1,4,21
+1,4,687533179,Please tell me how many plates there are somewhere in the room?,2,4,21
+1,4,229973133,There are between 0 and 3 plates in the room. How many are there?,3,4,21
+1,4,650394634,How many eggs are there in the room?,0,5,21
+1,4,827827913,There are between 0 and 3 eggs in the room. How many are there?,1,5,21
+1,4,365088320,Please tell me how many eggs there are somewhere in the room?,2,5,21
+1,4,254910584,Count the number of eggs in this room.,3,5,21
+1,4,440796224,There are between 0 and 3 plates in the room. How many are there?,0,4,21
+1,4,960323396,Please tell me how many plates are around here?,1,4,21
+1,4,384594459,How many plates are there in the room?,2,4,21
+1,4,719025268,There are between 0 and 3 plates in the room. How many are there?,3,4,21
+1,4,328261199,Please tell me how many plates are around here?,0,4,21
+1,4,969353285,Count the number of plates in this room.,1,4,21
+1,4,684241030,Please tell me how many plates there are somewhere in the room?,2,4,21
+1,4,988962662,How many plates are there in the room?,3,4,21
+1,5,239426954,There are between 0 and 3 heads of lettuce in the room. How many are there?,0,8,21
+1,5,538403971,There are between 0 and 3 heads of lettuce in the room. How many are there?,1,8,21
+1,5,954988387,Please tell me how many heads of lettuce are around here?,2,8,21
+1,5,515493690,There are between 0 and 3 heads of lettuce in the room. How many are there?,3,8,21
+1,5,7518324,Count the number of eggs in this room.,0,5,21
+1,5,626725282,Please tell me how many eggs are around here?,1,5,21
+1,5,12086702,There are between 0 and 3 eggs in the room. How many are there?,2,5,21
+1,5,498604170,Count the number of eggs in this room.,3,5,21
+1,5,155507311,Please tell me how many loaves of bread there are somewhere in the room?,0,12,21
+1,5,714054887,Please tell me how many loaves of bread are around here?,1,12,21
+1,5,475288265,Please tell me how many loaves of bread there are somewhere in the room?,2,12,21
+1,5,276740071,There are between 0 and 3 loaves of bread in the room. How many are there?,3,12,21
+1,5,981740349,Count the number of heads of lettuce in this room.,0,8,21
+1,5,966600822,Please tell me how many heads of lettuce there are somewhere in the room?,1,8,21
+1,5,755872593,Count the number of heads of lettuce in this room.,2,8,21
+1,5,507371773,Please tell me how many heads of lettuce there are somewhere in the room?,3,8,21
+1,5,531145506,Please tell me how many heads of lettuce there are somewhere in the room?,0,8,21
+1,5,715088692,There are between 0 and 3 heads of lettuce in the room. How many are there?,1,8,21
+1,5,13362714,Please tell me how many heads of lettuce are around here?,2,8,21
+1,5,548731682,Please tell me how many heads of lettuce there are somewhere in the room?,3,8,21
+1,5,830910912,Count the number of spoons in this room.,0,1,21
+1,5,611552788,There are between 0 and 3 spoons in the room. How many are there?,1,1,21
+1,5,195121929,There are between 0 and 3 spoons in the room. How many are there?,2,1,21
+1,5,626122263,How many spoons are there in the room?,3,1,21
+1,5,845229857,There are between 0 and 3 knives in the room. How many are there?,0,10,21
+1,5,424121206,Please tell me how many knives there are somewhere in the room?,1,10,21
+1,5,591462105,Please tell me how many knives are around here?,2,10,21
+1,5,3333795,Count the number of knives in this room.,3,10,21
+1,5,794091812,There are between 0 and 3 spoons in the room. How many are there?,0,1,21
+1,5,894890543,How many spoons are there in the room?,1,1,21
+1,5,563078652,There are between 0 and 3 spoons in the room. How many are there?,2,1,21
+1,5,30139257,There are between 0 and 3 spoons in the room. How many are there?,3,1,21
+1,5,349670803,Count the number of apples in this room.,0,9,21
+1,5,842919941,Count the number of apples in this room.,1,9,21
+1,5,195331076,How many apples are there in the room?,2,9,21
+1,5,843613632,Please tell me how many apples are around here?,3,9,21
+1,5,987949185,How many apples are there in the room?,0,9,21
+1,5,970583341,Count the number of apples in this room.,1,9,21
+1,5,629455091,How many apples are there in the room?,2,9,21
+1,5,971282176,How many apples are there in the room?,3,9,21
+1,5,801960964,Please tell me how many mugs there are somewhere in the room?,0,13,21
+1,5,761404563,Count the number of mugs in this room.,1,13,21
+1,5,827927673,There are between 0 and 3 mugs in the room. How many are there?,2,13,21
+1,5,948393528,Please tell me how many mugs are around here?,3,13,21
+1,5,582767771,How many spoons are there in the room?,0,1,21
+1,5,292348315,Please tell me how many spoons there are somewhere in the room?,1,1,21
+1,5,82011811,Count the number of spoons in this room.,2,1,21
+1,5,345117976,How many spoons are there in the room?,3,1,21
+1,1,381696954,There are between 0 and 3 bowls in the room. How many are there?,0,7,21
+1,1,520970372,Please tell me how many bowls are around here?,1,7,21
+1,1,266304118,Please tell me how many bowls there are somewhere in the room?,2,7,21
+1,1,92722410,How many bowls are there in the room?,3,7,21
+1,1,911318530,There are between 0 and 3 tomatoes in the room. How many are there?,0,6,21
+1,1,170142253,How many tomatoes are there in the room?,1,6,21
+1,1,294709719,Count the number of tomatoes in this room.,2,6,21
+1,1,562038881,Count the number of tomatoes in this room.,3,6,21
+1,1,720618070,Please tell me how many forks there are somewhere in the room?,0,3,21
+1,1,968962842,How many forks are there in the room?,1,3,21
+1,1,417476621,Please tell me how many forks are around here?,2,3,21
+1,1,883922039,Count the number of forks in this room.,3,3,21
+1,1,291932728,Please tell me how many containers are around here?,0,11,21
+1,1,758140624,Please tell me how many containers there are somewhere in the room?,1,11,21
+1,1,558593092,How many containers are there in the room?,2,11,21
+1,1,70606661,There are between 0 and 3 containers in the room. How many are there?,3,11,21
+1,1,971560227,How many loaves of bread are there in the room?,0,12,21
+1,1,287757095,There are between 0 and 3 loaves of bread in the room. How many are there?,1,12,21
+1,1,393319980,There are between 0 and 3 loaves of bread in the room. How many are there?,2,12,21
+1,1,359279821,There are between 0 and 3 loaves of bread in the room. How many are there?,3,12,21
+1,1,268694735,Please tell me how many loaves of bread there are somewhere in the room?,0,12,21
+1,1,234086183,Count the number of loaves of bread in this room.,1,12,21
+1,1,123505858,Please tell me how many loaves of bread are around here?,2,12,21
+1,1,563805373,There are between 0 and 3 loaves of bread in the room. How many are there?,3,12,21
+1,1,348182307,Please tell me how many potatoes are around here?,0,2,21
+1,1,194649843,Count the number of potatoes in this room.,1,2,21
+1,1,798508777,Count the number of potatoes in this room.,2,2,21
+1,1,530359979,Please tell me how many potatoes are around here?,3,2,21
+1,1,521091122,Please tell me how many loaves of bread there are somewhere in the room?,0,12,21
+1,1,804380253,There are between 0 and 3 loaves of bread in the room. How many are there?,1,12,21
+1,1,158381597,Please tell me how many loaves of bread are around here?,2,12,21
+1,1,612484325,There are between 0 and 3 loaves of bread in the room. How many are there?,3,12,21
+1,2,375307991,How many bowls are there in the room?,0,7,21
+1,2,28247398,How many bowls are there in the room?,1,7,21
+1,2,40572476,There are between 0 and 3 bowls in the room. How many are there?,2,7,21
+1,2,889700527,Please tell me how many bowls are around here?,3,7,21
+1,2,430808227,Please tell me how many apples are around here?,0,9,21
+1,2,650459689,Please tell me how many apples there are somewhere in the room?,1,9,21
+1,2,309347474,Please tell me how many apples there are somewhere in the room?,2,9,21
+1,2,750628313,How many apples are there in the room?,3,9,21
+1,2,663456589,There are between 0 and 3 spoons in the room. How many are there?,0,1,21
+1,2,252875172,Please tell me how many spoons there are somewhere in the room?,1,1,21
+1,2,503788842,There are between 0 and 3 spoons in the room. How many are there?,2,1,21
+1,2,690031325,Please tell me how many spoons are around here?,3,1,21
+1,2,965816847,There are between 0 and 3 mugs in the room. How many are there?,0,13,21
+1,2,774480077,Count the number of mugs in this room.,1,13,21
+1,2,342116023,Please tell me how many mugs are around here?,2,13,21
+1,2,397026266,Please tell me how many mugs are around here?,3,13,21
+1,5,335770847,There are between 0 and 3 heads of lettuce in the room. How many are there?,0,8,21
+1,5,497380454,Please tell me how many heads of lettuce there are somewhere in the room?,1,8,21
+1,5,487581745,Count the number of heads of lettuce in this room.,2,8,21
+1,5,387059831,How many heads of lettuce are there in the room?,3,8,21
+1,5,849498384,Please tell me how many eggs are around here?,0,5,21
+1,5,567658673,Count the number of eggs in this room.,1,5,21
+1,5,13320656,Please tell me how many eggs are around here?,2,5,21
+1,5,817755038,Please tell me how many eggs are around here?,3,5,21
+1,5,869348657,How many potatoes are there in the room?,0,2,21
+1,5,351759303,Please tell me how many potatoes are around here?,1,2,21
+1,5,679237984,Please tell me how many potatoes there are somewhere in the room?,2,2,21
+1,5,464390898,There are between 0 and 3 potatoes in the room. How many are there?,3,2,21
+1,5,648731314,How many loaves of bread are there in the room?,0,12,21
+1,5,444828541,Count the number of loaves of bread in this room.,1,12,21
+1,5,670396668,Please tell me how many loaves of bread there are somewhere in the room?,2,12,21
+1,5,39051831,Please tell me how many loaves of bread there are somewhere in the room?,3,12,21
+1,5,997975999,How many bowls are there in the room?,0,7,21
+1,5,455408814,There are between 0 and 3 bowls in the room. How many are there?,1,7,21
+1,5,696154357,Please tell me how many bowls are around here?,2,7,21
+1,5,344016109,Count the number of bowls in this room.,3,7,21
+1,5,10561088,Please tell me how many heads of lettuce are around here?,0,8,21
+1,5,443287534,Count the number of heads of lettuce in this room.,1,8,21
+1,5,346180652,Please tell me how many heads of lettuce are around here?,2,8,21
+1,5,577207846,Count the number of heads of lettuce in this room.,3,8,21
+1,5,353237569,Please tell me how many eggs are around here?,0,5,21
+1,5,279136047,Please tell me how many eggs are around here?,1,5,21
+1,5,530993781,There are between 0 and 3 eggs in the room. How many are there?,2,5,21
+1,5,972093378,How many eggs are there in the room?,3,5,21
+1,1,451049648,Please tell me how many eggs are around here?,0,5,21
+1,1,896096656,There are between 0 and 3 eggs in the room. How many are there?,1,5,21
+1,1,441162599,Please tell me how many eggs there are somewhere in the room?,2,5,21
+1,1,106404883,Count the number of eggs in this room.,3,5,21
+1,1,677854360,Count the number of tomatoes in this room.,0,6,21
+1,1,769733227,Count the number of tomatoes in this room.,1,6,21
+1,1,815132235,Please tell me how many tomatoes there are somewhere in the room?,2,6,21
+1,1,552647508,How many tomatoes are there in the room?,3,6,21
+1,1,553362621,There are between 0 and 3 mugs in the room. How many are there?,0,13,21
+1,1,528349070,Count the number of mugs in this room.,1,13,21
+1,1,19917661,Please tell me how many mugs are around here?,2,13,21
+1,1,741800509,Please tell me how many mugs there are somewhere in the room?,3,13,21
+1,1,287244135,How many mugs are there in the room?,0,13,21
+1,1,389872015,How many mugs are there in the room?,1,13,21
+1,1,880545361,Count the number of mugs in this room.,2,13,21
+1,1,572080722,Count the number of mugs in this room.,3,13,21
+1,1,467178591,Please tell me how many mugs are around here?,0,13,21
+1,1,791370503,Please tell me how many mugs are around here?,1,13,21
+1,1,442440679,Please tell me how many mugs are around here?,2,13,21
+1,1,398615542,Please tell me how many mugs are around here?,3,13,21
+1,1,521129932,Count the number of potatoes in this room.,0,2,21
+1,1,844687387,Count the number of potatoes in this room.,1,2,21
+1,1,478685903,Please tell me how many potatoes there are somewhere in the room?,2,2,21
+1,1,711072096,Count the number of potatoes in this room.,3,2,21
+1,1,85861246,There are between 0 and 3 plates in the room. How many are there?,0,4,21
+1,1,564400788,Count the number of plates in this room.,1,4,21
+1,1,977855312,Please tell me how many plates are around here?,2,4,21
+1,1,324320508,Please tell me how many plates there are somewhere in the room?,3,4,21
+1,1,255158350,There are between 0 and 3 eggs in the room. How many are there?,0,5,21
+1,1,178270797,How many eggs are there in the room?,1,5,21
+1,1,391206275,How many eggs are there in the room?,2,5,21
+1,1,113320105,How many eggs are there in the room?,3,5,21
+1,2,60971644,There are between 0 and 3 heads of lettuce in the room. How many are there?,0,8,21
+1,2,571151198,Please tell me how many heads of lettuce there are somewhere in the room?,1,8,21
+1,2,836021366,Please tell me how many heads of lettuce there are somewhere in the room?,2,8,21
+1,2,864079942,Please tell me how many heads of lettuce are around here?,3,8,21
+1,2,527403813,Please tell me how many apples there are somewhere in the room?,0,9,21
+1,2,819288868,There are between 0 and 3 apples in the room. How many are there?,1,9,21
+1,2,330491304,Please tell me how many apples there are somewhere in the room?,2,9,21
+1,2,817998328,There are between 0 and 3 apples in the room. How many are there?,3,9,21
+1,2,29757263,Count the number of apples in this room.,0,9,21
+1,2,718133175,How many apples are there in the room?,1,9,21
+1,2,595610545,How many apples are there in the room?,2,9,21
+1,2,353185435,There are between 0 and 3 apples in the room. How many are there?,3,9,21
+1,2,480930981,Please tell me how many knives are around here?,0,10,21
+1,2,846627267,How many knives are there in the room?,1,10,21
+1,2,585442127,Count the number of knives in this room.,2,10,21
+1,2,884925894,Count the number of knives in this room.,3,10,21
+1,2,569680355,Count the number of containers in this room.,0,11,21
+1,2,774957261,How many containers are there in the room?,1,11,21
+1,2,633209589,Please tell me how many containers there are somewhere in the room?,2,11,21
+1,2,439943849,Please tell me how many containers there are somewhere in the room?,3,11,21
+1,4,58520421,There are between 0 and 3 bowls in the room. How many are there?,0,7,21
+1,4,872781943,How many bowls are there in the room?,1,7,21
+1,4,42111518,Count the number of bowls in this room.,2,7,21
+1,4,983901657,There are between 0 and 3 bowls in the room. How many are there?,3,7,21
+1,4,194643170,Please tell me how many spoons are around here?,0,1,21
+1,4,343657596,There are between 0 and 3 spoons in the room. How many are there?,1,1,21
+1,4,727782231,Count the number of spoons in this room.,2,1,21
+1,4,608305451,How many spoons are there in the room?,3,1,21
+1,4,395964849,Please tell me how many mugs there are somewhere in the room?,0,13,21
+1,4,258791387,Count the number of mugs in this room.,1,13,21
+1,4,914299226,Please tell me how many mugs there are somewhere in the room?,2,13,21
+1,4,480252759,Please tell me how many mugs are around here?,3,13,21
+1,4,823549883,Please tell me how many knives are around here?,0,10,21
+1,4,406425421,Please tell me how many knives are around here?,1,10,21
+1,4,994478034,Please tell me how many knives there are somewhere in the room?,2,10,21
+1,4,361017419,How many knives are there in the room?,3,10,21
+1,4,77778300,Please tell me how many forks are around here?,0,3,21
+1,4,205718334,Count the number of forks in this room.,1,3,21
+1,4,795998743,There are between 0 and 3 forks in the room. How many are there?,2,3,21
+1,4,70411030,Please tell me how many forks are around here?,3,3,21
+1,4,625790088,How many mugs are there in the room?,0,13,21
+1,4,256447747,How many mugs are there in the room?,1,13,21
+1,4,356409526,How many mugs are there in the room?,2,13,21
+1,4,918236552,How many mugs are there in the room?,3,13,21
+1,4,233234248,Please tell me how many mugs are around here?,0,13,21
+1,4,287740831,Count the number of mugs in this room.,1,13,21
+1,4,53870370,There are between 0 and 3 mugs in the room. How many are there?,2,13,21
+1,4,618534431,Count the number of mugs in this room.,3,13,21
+1,4,339689559,Please tell me how many potatoes there are somewhere in the room?,0,2,21
+1,4,625640656,Please tell me how many potatoes are around here?,1,2,21
+1,4,331282199,Please tell me how many potatoes there are somewhere in the room?,2,2,21
+1,4,878234390,Please tell me how many potatoes are around here?,3,2,21
+1,5,197534135,Please tell me how many bowls are around here?,0,7,21
+1,5,475145665,Count the number of bowls in this room.,1,7,21
+1,5,910031773,There are between 0 and 3 bowls in the room. How many are there?,2,7,21
+1,5,971826403,Please tell me how many bowls are around here?,3,7,21
+1,5,912734599,Count the number of apples in this room.,0,9,21
+1,5,564911174,Please tell me how many apples there are somewhere in the room?,1,9,21
+1,5,521783510,Please tell me how many apples there are somewhere in the room?,2,9,21
+1,5,29113775,There are between 0 and 3 apples in the room. How many are there?,3,9,21
+1,5,217426662,How many loaves of bread are there in the room?,0,12,21
+1,5,436466533,How many loaves of bread are there in the room?,1,12,21
+1,5,299797037,Count the number of loaves of bread in this room.,2,12,21
+1,5,605868844,How many loaves of bread are there in the room?,3,12,21
+1,5,246639533,Count the number of tomatoes in this room.,0,6,21
+1,5,325338753,Please tell me how many tomatoes there are somewhere in the room?,1,6,21
+1,5,727428484,Please tell me how many tomatoes are around here?,2,6,21
+1,5,191315348,There are between 0 and 3 tomatoes in the room. How many are there?,3,6,21
+1,5,774825523,Please tell me how many knives there are somewhere in the room?,0,10,21
+1,5,205217858,Please tell me how many knives there are somewhere in the room?,1,10,21
+1,5,475300792,There are between 0 and 3 knives in the room. How many are there?,2,10,21
+1,5,883420424,Please tell me how many knives there are somewhere in the room?,3,10,21
+1,5,202948912,Please tell me how many knives are around here?,0,10,21
+1,5,859589276,Count the number of knives in this room.,1,10,21
+1,5,222676710,There are between 0 and 3 knives in the room. How many are there?,2,10,21
+1,5,86946540,How many knives are there in the room?,3,10,21
+1,5,570927708,Count the number of mugs in this room.,0,13,21
+1,5,50229805,Count the number of mugs in this room.,1,13,21
+1,5,251422278,Please tell me how many mugs there are somewhere in the room?,2,13,21
+1,5,215856639,How many mugs are there in the room?,3,13,21
+1,5,884457781,How many apples are there in the room?,0,9,21
+1,5,147484313,There are between 0 and 3 apples in the room. How many are there?,1,9,21
+1,5,84432704,Please tell me how many apples there are somewhere in the room?,2,9,21
+1,5,880690419,How many apples are there in the room?,3,9,21
+1,1,55337419,How many forks are there in the room?,0,3,21
+1,1,304669856,Please tell me how many forks there are somewhere in the room?,1,3,21
+1,1,846357181,Please tell me how many forks there are somewhere in the room?,2,3,21
+1,1,627940989,How many forks are there in the room?,3,3,21
+1,1,12925148,How many eggs are there in the room?,0,5,21
+1,1,852072091,Please tell me how many eggs are around here?,1,5,21
+1,1,854194193,How many eggs are there in the room?,2,5,21
+1,1,904879396,How many eggs are there in the room?,3,5,21
+1,1,776655918,Please tell me how many spoons there are somewhere in the room?,0,1,21
+1,1,605419799,There are between 0 and 3 spoons in the room. How many are there?,1,1,21
+1,1,355947346,How many spoons are there in the room?,2,1,21
+1,1,902982629,Count the number of spoons in this room.,3,1,21
+1,1,814388446,Please tell me how many tomatoes there are somewhere in the room?,0,6,21
+1,1,672940948,Please tell me how many tomatoes are around here?,1,6,21
+1,1,615802198,How many tomatoes are there in the room?,2,6,21
+1,1,479310259,There are between 0 and 3 tomatoes in the room. How many are there?,3,6,21
+1,2,130647984,There are between 0 and 3 bowls in the room. How many are there?,0,7,21
+1,2,469371344,Please tell me how many bowls are around here?,1,7,21
+1,2,331542941,How many bowls are there in the room?,2,7,21
+1,2,582706348,There are between 0 and 3 bowls in the room. How many are there?,3,7,21
+1,2,480587380,Please tell me how many heads of lettuce there are somewhere in the room?,0,8,21
+1,2,209878597,How many heads of lettuce are there in the room?,1,8,21
+1,2,718786928,Please tell me how many heads of lettuce there are somewhere in the room?,2,8,21
+1,2,715912583,There are between 0 and 3 heads of lettuce in the room. How many are there?,3,8,21
+1,2,681013431,Please tell me how many forks are around here?,0,3,21
+1,2,436708554,How many forks are there in the room?,1,3,21
+1,2,410515084,Please tell me how many forks are around here?,2,3,21
+1,2,203444473,Please tell me how many forks there are somewhere in the room?,3,3,21
+1,2,615085594,How many containers are there in the room?,0,11,21
+1,2,664770612,Please tell me how many containers there are somewhere in the room?,1,11,21
+1,2,20940606,Count the number of containers in this room.,2,11,21
+1,2,273397441,Please tell me how many containers are around here?,3,11,21
+1,2,785736241,How many heads of lettuce are there in the room?,0,8,21
+1,2,759768967,How many heads of lettuce are there in the room?,1,8,21
+1,2,465297917,Please tell me how many heads of lettuce are around here?,2,8,21
+1,2,270370474,How many heads of lettuce are there in the room?,3,8,21
+1,2,631032170,There are between 0 and 3 bowls in the room. How many are there?,0,7,21
+1,2,868469908,Please tell me how many bowls there are somewhere in the room?,1,7,21
+1,2,723839044,How many bowls are there in the room?,2,7,21
+1,2,274042238,There are between 0 and 3 bowls in the room. How many are there?,3,7,21
+1,2,536068798,Please tell me how many potatoes are around here?,0,2,21
+1,2,826716458,How many potatoes are there in the room?,1,2,21
+1,2,3326537,How many potatoes are there in the room?,2,2,21
+1,2,194431900,Please tell me how many potatoes are around here?,3,2,21
+1,2,897500194,How many bowls are there in the room?,0,7,21
+1,2,358121077,Count the number of bowls in this room.,1,7,21
+1,2,391331674,How many bowls are there in the room?,2,7,21
+1,2,513336950,Count the number of bowls in this room.,3,7,21
+1,3,229805578,There are between 0 and 3 loaves of bread in the room. How many are there?,0,12,21
+1,3,268574896,Please tell me how many loaves of bread are around here?,1,12,21
+1,3,412020858,There are between 0 and 3 loaves of bread in the room. How many are there?,2,12,21
+1,3,780277274,Please tell me how many loaves of bread there are somewhere in the room?,3,12,21
+1,3,783853786,Please tell me how many loaves of bread are around here?,0,12,21
+1,3,674006888,Please tell me how many loaves of bread are around here?,1,12,21
+1,3,186621145,Count the number of loaves of bread in this room.,2,12,21
+1,3,56302876,Count the number of loaves of bread in this room.,3,12,21
+1,3,637232352,Please tell me how many loaves of bread are around here?,0,12,21
+1,3,738328400,Please tell me how many loaves of bread there are somewhere in the room?,1,12,21
+1,3,301356925,There are between 0 and 3 loaves of bread in the room. How many are there?,2,12,21
+1,3,239240022,Count the number of loaves of bread in this room.,3,12,21
+1,3,271723213,There are between 0 and 3 plates in the room. How many are there?,0,4,21
+1,3,958494836,Please tell me how many plates there are somewhere in the room?,1,4,21
+1,3,168511048,Count the number of plates in this room.,2,4,21
+1,3,85662558,There are between 0 and 3 plates in the room. How many are there?,3,4,21
+1,3,285852490,Please tell me how many containers are around here?,0,11,21
+1,3,802207464,Please tell me how many containers there are somewhere in the room?,1,11,21
+1,3,184955838,There are between 0 and 3 containers in the room. How many are there?,2,11,21
+1,3,572413170,Please tell me how many containers there are somewhere in the room?,3,11,21
+1,3,647068240,Count the number of spoons in this room.,0,1,21
+1,3,329758180,There are between 0 and 3 spoons in the room. How many are there?,1,1,21
+1,3,380876134,There are between 0 and 3 spoons in the room. How many are there?,2,1,21
+1,3,953434752,How many spoons are there in the room?,3,1,21
+1,3,60650589,How many tomatoes are there in the room?,0,6,21
+1,3,133468791,There are between 0 and 3 tomatoes in the room. How many are there?,1,6,21
+1,3,74533110,There are between 0 and 3 tomatoes in the room. How many are there?,2,6,21
+1,3,972001932,How many tomatoes are there in the room?,3,6,21
+1,3,853073120,How many spoons are there in the room?,0,1,21
+1,3,248631396,Please tell me how many spoons there are somewhere in the room?,1,1,21
+1,3,254178069,Please tell me how many spoons are around here?,2,1,21
+1,3,13707859,Count the number of spoons in this room.,3,1,21
+1,4,381752174,Count the number of containers in this room.,0,11,21
+1,4,364278164,There are between 0 and 3 containers in the room. How many are there?,1,11,21
+1,4,432117959,How many containers are there in the room?,2,11,21
+1,4,617451540,Please tell me how many containers there are somewhere in the room?,3,11,21
+1,4,497998716,There are between 0 and 3 apples in the room. How many are there?,0,9,21
+1,4,462784496,Count the number of apples in this room.,1,9,21
+1,4,344980750,How many apples are there in the room?,2,9,21
+1,4,850593633,Please tell me how many apples are around here?,3,9,21
+1,4,40720133,Count the number of containers in this room.,0,11,21
+1,4,488027650,Please tell me how many containers are around here?,1,11,21
+1,4,577277723,How many containers are there in the room?,2,11,21
+1,4,805356236,There are between 0 and 3 containers in the room. How many are there?,3,11,21
+1,4,462792340,Count the number of mugs in this room.,0,13,21
+1,4,568733229,Count the number of mugs in this room.,1,13,21
+1,4,166105056,How many mugs are there in the room?,2,13,21
+1,4,607814252,Count the number of mugs in this room.,3,13,21
+1,5,345555087,How many containers are there in the room?,0,11,21
+1,5,813126720,Please tell me how many containers are around here?,1,11,21
+1,5,659515405,Count the number of containers in this room.,2,11,21
+1,5,354831886,Please tell me how many containers are around here?,3,11,21
+1,5,787312308,Count the number of spoons in this room.,0,1,21
+1,5,77600474,There are between 0 and 3 spoons in the room. How many are there?,1,1,21
+1,5,84246743,Count the number of spoons in this room.,2,1,21
+1,5,84860746,How many spoons are there in the room?,3,1,21
+1,5,416817536,There are between 0 and 3 forks in the room. How many are there?,0,3,21
+1,5,569965266,Please tell me how many forks there are somewhere in the room?,1,3,21
+1,5,492741920,Please tell me how many forks are around here?,2,3,21
+1,5,597452862,Count the number of forks in this room.,3,3,21
+1,5,49268405,How many heads of lettuce are there in the room?,0,8,21
+1,5,766617089,Please tell me how many heads of lettuce are around here?,1,8,21
+1,5,96023370,Please tell me how many heads of lettuce there are somewhere in the room?,2,8,21
+1,5,829861797,How many heads of lettuce are there in the room?,3,8,21
+1,5,186051529,How many forks are there in the room?,0,3,21
+1,5,83777607,There are between 0 and 3 forks in the room. How many are there?,1,3,21
+1,5,239704899,Please tell me how many forks there are somewhere in the room?,2,3,21
+1,5,541846564,Please tell me how many forks are around here?,3,3,21
+1,5,595184809,How many potatoes are there in the room?,0,2,21
+1,5,944024946,There are between 0 and 3 potatoes in the room. How many are there?,1,2,21
+1,5,185141204,Count the number of potatoes in this room.,2,2,21
+1,5,968114061,How many potatoes are there in the room?,3,2,21
+1,5,984824172,Please tell me how many forks there are somewhere in the room?,0,3,21
+1,5,424663773,There are between 0 and 3 forks in the room. How many are there?,1,3,21
+1,5,765628770,Please tell me how many forks there are somewhere in the room?,2,3,21
+1,5,467838007,Count the number of forks in this room.,3,3,21
+1,5,656500244,Count the number of bowls in this room.,0,7,21
+1,5,685282504,There are between 0 and 3 bowls in the room. How many are there?,1,7,21
+1,5,315396861,How many bowls are there in the room?,2,7,21
+1,5,751425954,There are between 0 and 3 bowls in the room. How many are there?,3,7,21
+1,1,792503125,How many loaves of bread are there in the room?,0,12,21
+1,1,668215739,There are between 0 and 3 loaves of bread in the room. How many are there?,1,12,21
+1,1,917512618,Please tell me how many loaves of bread there are somewhere in the room?,2,12,21
+1,1,908169801,Please tell me how many loaves of bread there are somewhere in the room?,3,12,21
+1,1,600140698,Please tell me how many potatoes are around here?,0,2,21
+1,1,611764185,Please tell me how many potatoes there are somewhere in the room?,1,2,21
+1,1,93646643,Please tell me how many potatoes there are somewhere in the room?,2,2,21
+1,1,538513579,How many potatoes are there in the room?,3,2,21
+1,1,572397914,Count the number of apples in this room.,0,9,21
+1,1,387668970,Count the number of apples in this room.,1,9,21
+1,1,621895360,Please tell me how many apples are around here?,2,9,21
+1,1,79961398,Count the number of apples in this room.,3,9,21
+1,1,704138681,How many knives are there in the room?,0,10,21
+1,1,986258949,How many knives are there in the room?,1,10,21
+1,1,600214248,There are between 0 and 3 knives in the room. How many are there?,2,10,21
+1,1,110911142,Please tell me how many knives there are somewhere in the room?,3,10,21
+1,1,272781719,There are between 0 and 3 eggs in the room. How many are there?,0,5,21
+1,1,800827895,How many eggs are there in the room?,1,5,21
+1,1,522564339,How many eggs are there in the room?,2,5,21
+1,1,188955661,Please tell me how many eggs are around here?,3,5,21
+1,1,216670557,Please tell me how many bowls there are somewhere in the room?,0,7,21
+1,1,632039375,Please tell me how many bowls are around here?,1,7,21
+1,1,314832909,There are between 0 and 3 bowls in the room. How many are there?,2,7,21
+1,1,906132532,Count the number of bowls in this room.,3,7,21
+1,1,586709655,Please tell me how many bowls are around here?,0,7,21
+1,1,279163949,How many bowls are there in the room?,1,7,21
+1,1,278707329,How many bowls are there in the room?,2,7,21
+1,1,622277457,How many bowls are there in the room?,3,7,21
+1,1,477678138,Please tell me how many knives are around here?,0,10,21
+1,1,878490141,Count the number of knives in this room.,1,10,21
+1,1,969640431,There are between 0 and 3 knives in the room. How many are there?,2,10,21
+1,1,363280027,Please tell me how many knives are around here?,3,10,21
+1,2,799399440,Please tell me how many bowls are around here?,0,7,21
+1,2,411406492,Count the number of bowls in this room.,1,7,21
+1,2,584626493,Please tell me how many bowls are around here?,2,7,21
+1,2,29821775,How many bowls are there in the room?,3,7,21
+1,2,11081242,Please tell me how many bowls are around here?,0,7,21
+1,2,524367728,How many bowls are there in the room?,1,7,21
+1,2,325141579,Please tell me how many bowls are around here?,2,7,21
+1,2,560249298,There are between 0 and 3 bowls in the room. How many are there?,3,7,21
+1,2,781311755,There are between 0 and 3 potatoes in the room. How many are there?,0,2,21
+1,2,287725194,Count the number of potatoes in this room.,1,2,21
+1,2,3595242,Please tell me how many potatoes there are somewhere in the room?,2,2,21
+1,2,208087064,Please tell me how many potatoes there are somewhere in the room?,3,2,21
+1,2,4007257,Please tell me how many potatoes are around here?,0,2,21
+1,2,925951775,Please tell me how many potatoes there are somewhere in the room?,1,2,21
+1,2,771729876,Please tell me how many potatoes there are somewhere in the room?,2,2,21
+1,2,539781296,Please tell me how many potatoes there are somewhere in the room?,3,2,21

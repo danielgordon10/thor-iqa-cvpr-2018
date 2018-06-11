@@ -1,0 +1,641 @@
+question_type,scene_number,seed,question,answer,object_id,container_id
+2,1,794025056,Please tell me if there is a tomato in the fridge?,True,6,19
+2,1,431597175,Is there a tomato in the fridge?,False,6,19
+2,1,883148222,I think there is an egg in a garbage can. Is that correct?,True,5,17
+2,1,960369016,Can you find an egg in a garbage can?,False,5,17
+2,1,506538485,Please tell me if there is a mug in the microwave?,True,13,18
+2,1,45364692,Can you find a mug in the microwave?,False,13,18
+2,1,972565357,Please tell me if there is an egg in the fridge?,True,5,19
+2,1,392212191,I think there is an egg in the fridge. Is that correct?,False,5,19
+2,2,845471653,Is there a container in the microwave?,True,11,18
+2,2,215646420,Can you find a container in the microwave?,False,11,18
+2,2,684953590,I think there is a tomato in a garbage can. Is that correct?,True,6,17
+2,2,646483883,Please tell me if there is a tomato in a garbage can?,False,6,17
+2,2,441309983,Can you find a tomato in a garbage can?,True,6,17
+2,2,559001800,Is there a tomato in a garbage can?,False,6,17
+2,2,551726870,Please tell me if there is a head of lettuce in the fridge?,True,8,19
+2,2,340604049,Is there a head of lettuce in the fridge?,False,8,19
+2,3,556077024,Please tell me if there is a potato in a garbage can?,True,2,17
+2,3,207110222,Is there a potato in a garbage can?,False,2,17
+2,3,550037782,Is there a potato in a garbage can?,True,2,17
+2,3,64068343,I think there is a potato in a garbage can. Is that correct?,False,2,17
+2,3,85372678,I think there is a plate in the microwave. Is that correct?,True,4,18
+2,3,406946146,Can you find a plate in the microwave?,False,4,18
+2,3,720198451,Is there a loaf of bread in the microwave?,True,12,18
+2,3,995524521,Please tell me if there is a loaf of bread in the microwave?,False,12,18
+2,4,72369227,I think there is a tomato in a garbage can. Is that correct?,True,6,17
+2,4,59932716,Please tell me if there is a tomato in a garbage can?,False,6,17
+2,4,48426032,Is there a head of lettuce in the fridge?,True,8,19
+2,4,386121347,Please tell me if there is a head of lettuce in the fridge?,False,8,19
+2,4,333118219,Is there an egg in the microwave?,True,5,18
+2,4,851930531,Please tell me if there is an egg in the microwave?,False,5,18
+2,4,245322099,Please tell me if there is a knife in a cabinet?,True,10,20
+2,4,191677721,Can you find a knife in a cabinet?,False,10,20
+2,5,720738699,Can you find a loaf of bread in a cabinet?,True,12,20
+2,5,753848706,I think there is a loaf of bread in a cabinet. Is that correct?,False,12,20
+2,5,463136876,Please tell me if there is a head of lettuce in the fridge?,True,8,19
+2,5,807445575,I think there is a head of lettuce in the fridge. Is that correct?,False,8,19
+2,5,826635479,I think there is a knife in a cabinet. Is that correct?,True,10,20
+2,5,986977440,Can you find a knife in a cabinet?,False,10,20
+2,5,2434872,Please tell me if there is a bowl in the microwave?,True,7,18
+2,5,350870625,Can you find a bowl in the microwave?,False,7,18
+2,1,178487202,Can you find an egg in a garbage can?,True,5,17
+2,1,99054547,I think there is an egg in a garbage can. Is that correct?,False,5,17
+2,1,900110193,I think there is a loaf of bread in a garbage can. Is that correct?,True,12,17
+2,1,695682193,I think there is a loaf of bread in a garbage can. Is that correct?,False,12,17
+2,1,723289516,I think there is a plate in a cabinet. Is that correct?,True,4,20
+2,1,279800853,Is there a plate in a cabinet?,False,4,20
+2,1,35256706,Is there a potato in the fridge?,True,2,19
+2,1,828026127,Can you find a potato in the fridge?,False,2,19
+2,2,23629386,Please tell me if there is an egg in the microwave?,True,5,18
+2,2,361953330,Can you find an egg in the microwave?,False,5,18
+2,2,12081206,Is there a tomato in a garbage can?,True,6,17
+2,2,705850405,Please tell me if there is a tomato in a garbage can?,False,6,17
+2,2,666603969,Is there a mug in a cabinet?,True,13,20
+2,2,525177988,Please tell me if there is a mug in a cabinet?,False,13,20
+2,2,94442130,Can you find a bowl in the microwave?,True,7,18
+2,2,350264835,Can you find a bowl in the microwave?,False,7,18
+2,3,670814595,I think there is a mug in the fridge. Is that correct?,True,13,19
+2,3,653381262,Can you find a mug in the fridge?,False,13,19
+2,3,179646441,Can you find a plate in the microwave?,True,4,18
+2,3,903551672,Is there a plate in the microwave?,False,4,18
+2,3,914699082,Is there a potato in the fridge?,True,2,19
+2,3,171653468,Please tell me if there is a potato in the fridge?,False,2,19
+2,3,754918244,I think there is a mug in the microwave. Is that correct?,True,13,18
+2,3,846383982,I think there is a mug in the microwave. Is that correct?,False,13,18
+2,4,403082738,Is there a tomato in the fridge?,True,6,19
+2,4,712182410,Please tell me if there is a tomato in the fridge?,False,6,19
+2,4,773166670,Is there a tomato in the fridge?,True,6,19
+2,4,41445095,I think there is a tomato in the fridge. Is that correct?,False,6,19
+2,4,738853265,I think there is a container in the microwave. Is that correct?,True,11,18
+2,4,798796203,Can you find a container in the microwave?,False,11,18
+2,4,17214086,I think there is a mug in the fridge. Is that correct?,True,13,19
+2,4,308547332,Can you find a mug in the fridge?,False,13,19
+2,5,395059372,I think there is an apple in the fridge. Is that correct?,True,9,19
+2,5,778613317,Can you find an apple in the fridge?,False,9,19
+2,5,13716726,Is there a mug in the microwave?,True,13,18
+2,5,307359518,Please tell me if there is a mug in the microwave?,False,13,18
+2,5,589466103,Please tell me if there is a plate in the fridge?,True,4,19
+2,5,93668149,Can you find a plate in the fridge?,False,4,19
+2,5,728544849,Can you find a loaf of bread in a garbage can?,True,12,17
+2,5,318614435,I think there is a loaf of bread in a garbage can. Is that correct?,False,12,17
+2,1,930688173,Please tell me if there is a bowl in the microwave?,True,7,18
+2,1,841161465,Please tell me if there is a bowl in the microwave?,False,7,18
+2,1,388715375,Can you find a potato in the fridge?,True,2,19
+2,1,750811316,Can you find a potato in the fridge?,False,2,19
+2,1,796428178,I think there is a mug in a cabinet. Is that correct?,True,13,20
+2,1,78037482,Please tell me if there is a mug in a cabinet?,False,13,20
+2,1,517311173,Is there a container in the microwave?,True,11,18
+2,1,429890479,Can you find a container in the microwave?,False,11,18
+2,2,459206679,Can you find a head of lettuce in the fridge?,True,8,19
+2,2,832068879,Please tell me if there is a head of lettuce in the fridge?,False,8,19
+2,2,815966977,Can you find a potato in a garbage can?,True,2,17
+2,2,139577307,Is there a potato in a garbage can?,False,2,17
+2,2,148885235,Is there a mug in the microwave?,True,13,18
+2,2,797970010,Please tell me if there is a mug in the microwave?,False,13,18
+2,2,140816463,Please tell me if there is a head of lettuce in the fridge?,True,8,19
+2,2,94059204,I think there is a head of lettuce in the fridge. Is that correct?,False,8,19
+2,3,620033419,Please tell me if there is a mug in the microwave?,True,13,18
+2,3,124955025,Please tell me if there is a mug in the microwave?,False,13,18
+2,3,381560648,Please tell me if there is a plate in the microwave?,True,4,18
+2,3,904148040,Is there a plate in the microwave?,False,4,18
+2,3,610855933,Please tell me if there is a loaf of bread in the microwave?,True,12,18
+2,3,976691916,Please tell me if there is a loaf of bread in the microwave?,False,12,18
+2,3,609005897,Is there a plate in the fridge?,True,4,19
+2,3,228080746,Can you find a plate in the fridge?,False,4,19
+2,4,373319044,Can you find a spoon in a cabinet?,True,1,20
+2,4,469930189,Please tell me if there is a spoon in a cabinet?,False,1,20
+2,4,44020097,Is there an apple in a garbage can?,True,9,17
+2,4,703288890,Is there an apple in a garbage can?,False,9,17
+2,4,40974821,Please tell me if there is a fork in a cabinet?,True,3,20
+2,4,642061142,I think there is a fork in a cabinet. Is that correct?,False,3,20
+2,4,363577246,Is there a fork in a cabinet?,True,3,20
+2,4,414944447,I think there is a fork in a cabinet. Is that correct?,False,3,20
+2,5,955709221,Can you find a loaf of bread in a garbage can?,True,12,17
+2,5,312114259,Is there a loaf of bread in a garbage can?,False,12,17
+2,5,894017972,Is there a potato in the fridge?,False,2,19
+2,5,508291177,I think there is a potato in the fridge. Is that correct?,True,2,19
+2,5,600318054,I think there is an apple in the fridge. Is that correct?,True,9,19
+2,5,523636471,I think there is an apple in the fridge. Is that correct?,False,9,19
+2,5,837129946,Please tell me if there is a potato in a garbage can?,True,2,17
+2,5,574051464,Is there a potato in a garbage can?,False,2,17
+2,1,124777605,I think there is a tomato in a garbage can. Is that correct?,True,6,17
+2,1,146035693,I think there is a tomato in a garbage can. Is that correct?,False,6,17
+2,1,98877416,Is there an apple in the fridge?,True,9,19
+2,1,864236523,Please tell me if there is an apple in the fridge?,False,9,19
+2,1,168398713,Can you find an egg in the microwave?,True,5,18
+2,1,221638400,Is there an egg in the microwave?,False,5,18
+2,1,656744077,I think there is a plate in a cabinet. Is that correct?,True,4,20
+2,1,288303262,Is there a plate in a cabinet?,False,4,20
+2,2,93729891,Please tell me if there is a mug in the microwave?,True,13,18
+2,2,199794225,I think there is a mug in the microwave. Is that correct?,False,13,18
+2,2,684177296,Can you find an apple in a garbage can?,True,9,17
+2,2,65086240,I think there is an apple in a garbage can. Is that correct?,False,9,17
+2,2,55546058,Please tell me if there is an egg in the microwave?,True,5,18
+2,2,415064767,Is there an egg in the microwave?,False,5,18
+2,2,234861163,I think there is a plate in the microwave. Is that correct?,True,4,18
+2,2,295850798,Please tell me if there is a plate in the microwave?,False,4,18
+2,3,985058596,Is there a container in the microwave?,True,11,18
+2,3,293748526,I think there is a container in the microwave. Is that correct?,False,11,18
+2,3,357703259,Is there an egg in a garbage can?,True,5,17
+2,3,416314665,Is there an egg in a garbage can?,False,5,17
+2,3,543917943,Can you find a mug in the microwave?,True,13,18
+2,3,454674353,Please tell me if there is a mug in the microwave?,False,13,18
+2,3,917177089,Please tell me if there is a container in the microwave?,True,11,18
+2,3,400497644,Can you find a container in the microwave?,False,11,18
+2,4,452588266,Can you find a loaf of bread in the fridge?,True,12,19
+2,4,3448261,Is there a loaf of bread in the fridge?,False,12,19
+2,4,961705297,Can you find a bowl in a cabinet?,True,7,20
+2,4,817493907,Is there a bowl in a cabinet?,False,7,20
+2,4,335157030,Can you find a tomato in a garbage can?,True,6,17
+2,4,272962341,I think there is a tomato in a garbage can. Is that correct?,False,6,17
+2,4,945560421,Is there a container in a cabinet?,True,11,20
+2,4,883899546,Is there a container in a cabinet?,False,11,20
+2,5,408848329,Can you find an egg in the microwave?,True,5,18
+2,5,908586911,Is there an egg in the microwave?,False,5,18
+2,5,2174806,Is there an apple in a garbage can?,True,9,17
+2,5,700194163,I think there is an apple in a garbage can. Is that correct?,False,9,17
+2,5,585741181,Can you find a container in a cabinet?,True,11,20
+2,5,103798756,Is there a container in a cabinet?,False,11,20
+2,5,73440314,I think there is a mug in a cabinet. Is that correct?,True,13,20
+2,5,960129376,Is there a mug in a cabinet?,False,13,20
+2,1,863040343,Please tell me if there is a potato in the microwave?,True,2,18
+2,1,167706315,I think there is a potato in the microwave. Is that correct?,False,2,18
+2,1,707783045,I think there is a potato in the fridge. Is that correct?,True,2,19
+2,1,666202115,I think there is a potato in the fridge. Is that correct?,False,2,19
+2,1,452652997,Can you find an apple in a garbage can?,True,9,17
+2,1,766020494,I think there is an apple in a garbage can. Is that correct?,False,9,17
+2,1,25116796,Can you find a tomato in the fridge?,True,6,19
+2,1,168976733,Is there a tomato in the fridge?,False,6,19
+2,2,247983141,Please tell me if there is an apple in the fridge?,True,9,19
+2,2,610906980,Can you find an apple in the fridge?,False,9,19
+2,2,665954129,Can you find an egg in the microwave?,True,5,18
+2,2,635828924,I think there is an egg in the microwave. Is that correct?,False,5,18
+2,2,424241644,I think there is a mug in the microwave. Is that correct?,True,13,18
+2,2,6781014,Can you find a mug in the microwave?,False,13,18
+2,2,696364230,Can you find a tomato in the fridge?,True,6,19
+2,2,966694167,I think there is a tomato in the fridge. Is that correct?,False,6,19
+2,3,795769298,Is there a plate in the fridge?,True,4,19
+2,3,199441151,Can you find a plate in the fridge?,False,4,19
+2,3,717387222,Is there a mug in the fridge?,True,13,19
+2,3,263349246,Can you find a mug in the fridge?,False,13,19
+2,3,241758845,Please tell me if there is a tomato in a garbage can?,True,6,17
+2,3,793523118,I think there is a tomato in a garbage can. Is that correct?,False,6,17
+2,3,735267226,Can you find a head of lettuce in the fridge?,True,8,19
+2,3,965887532,I think there is a head of lettuce in the fridge. Is that correct?,False,8,19
+2,4,276801846,Is there an egg in a garbage can?,True,5,17
+2,4,535438235,Please tell me if there is an egg in a garbage can?,False,5,17
+2,4,51047695,Please tell me if there is a spoon in a cabinet?,True,1,20
+2,4,477459127,Is there a spoon in a cabinet?,False,1,20
+2,4,57171278,I think there is a loaf of bread in a garbage can. Is that correct?,True,12,17
+2,4,232151699,I think there is a loaf of bread in a garbage can. Is that correct?,False,12,17
+2,4,664186733,I think there is a potato in a cabinet. Is that correct?,True,2,20
+2,4,355764742,Can you find a potato in a cabinet?,False,2,20
+2,5,502925789,Please tell me if there is a mug in the microwave?,True,13,18
+2,5,172196304,Please tell me if there is a mug in the microwave?,False,13,18
+2,5,663756356,Is there an egg in the microwave?,True,5,18
+2,5,670985210,Please tell me if there is an egg in the microwave?,False,5,18
+2,5,185245167,Please tell me if there is a mug in the fridge?,True,13,19
+2,5,931022226,Can you find a mug in the fridge?,False,13,19
+2,5,975934640,Please tell me if there is a tomato in the fridge?,True,6,19
+2,5,631041167,I think there is a tomato in the fridge. Is that correct?,False,6,19
+2,1,775758884,Please tell me if there is a loaf of bread in a cabinet?,True,12,20
+2,1,355323109,Please tell me if there is a loaf of bread in a cabinet?,False,12,20
+2,1,499594087,Is there a bowl in the microwave?,True,7,18
+2,1,13162619,Please tell me if there is a bowl in the microwave?,False,7,18
+2,1,168498755,Please tell me if there is a head of lettuce in the fridge?,True,8,19
+2,1,324178481,Can you find a head of lettuce in the fridge?,False,8,19
+2,1,241967024,Is there an egg in the fridge?,True,5,19
+2,1,937442186,Please tell me if there is an egg in the fridge?,False,5,19
+2,2,656379921,Please tell me if there is a plate in the fridge?,True,4,19
+2,2,469798833,Please tell me if there is a plate in the fridge?,False,4,19
+2,2,261951486,Please tell me if there is a potato in a cabinet?,True,2,20
+2,2,694636970,Can you find a potato in a cabinet?,False,2,20
+2,2,457552521,Can you find a potato in a cabinet?,True,2,20
+2,2,774456386,Can you find a potato in a cabinet?,False,2,20
+2,2,630689883,Is there a knife in a cabinet?,True,10,20
+2,2,816285640,Please tell me if there is a knife in a cabinet?,False,10,20
+2,3,677974467,Can you find a mug in the fridge?,True,13,19
+2,3,904634482,Is there a mug in the fridge?,False,13,19
+2,3,836850330,Is there a head of lettuce in the fridge?,True,8,19
+2,3,433584801,Please tell me if there is a head of lettuce in the fridge?,False,8,19
+2,3,461037671,I think there is a potato in a garbage can. Is that correct?,True,2,17
+2,3,729873592,Can you find a potato in a garbage can?,False,2,17
+2,3,99495503,Can you find a loaf of bread in the fridge?,True,12,19
+2,3,881598538,Is there a loaf of bread in the fridge?,False,12,19
+2,4,708946601,Is there a potato in the microwave?,True,2,18
+2,4,421953061,Please tell me if there is a potato in the microwave?,False,2,18
+2,4,463203918,Please tell me if there is a tomato in a garbage can?,True,6,17
+2,4,789616002,Please tell me if there is a tomato in a garbage can?,False,6,17
+2,4,779301954,Can you find a knife in a cabinet?,True,10,20
+2,4,114966209,I think there is a knife in a cabinet. Is that correct?,False,10,20
+2,4,133357865,Please tell me if there is a potato in a garbage can?,True,2,17
+2,4,499713945,Please tell me if there is a potato in a garbage can?,False,2,17
+2,5,228502209,Can you find a potato in the fridge?,True,2,19
+2,5,893113788,I think there is a potato in the fridge. Is that correct?,False,2,19
+2,5,382159208,Please tell me if there is a mug in the fridge?,True,13,19
+2,5,27134319,Is there a mug in the fridge?,False,13,19
+2,5,134196195,I think there is a mug in a cabinet. Is that correct?,True,13,20
+2,5,772616557,Can you find a mug in a cabinet?,False,13,20
+2,5,844700413,Is there a loaf of bread in a garbage can?,True,12,17
+2,5,819543341,Please tell me if there is a loaf of bread in a garbage can?,False,12,17
+2,1,775439229,Please tell me if there is a loaf of bread in the microwave?,True,12,18
+2,1,850674570,I think there is a loaf of bread in the microwave. Is that correct?,False,12,18
+2,1,658123908,I think there is a mug in the fridge. Is that correct?,True,13,19
+2,1,503546078,I think there is a mug in the fridge. Is that correct?,False,13,19
+2,1,222137022,Please tell me if there is a plate in the microwave?,True,4,18
+2,1,527054723,Please tell me if there is a plate in the microwave?,False,4,18
+2,1,307282424,Please tell me if there is a plate in the fridge?,True,4,19
+2,1,2553800,Is there a plate in the fridge?,False,4,19
+2,2,188435028,Please tell me if there is an egg in the microwave?,True,5,18
+2,2,334976631,Is there an egg in the microwave?,False,5,18
+2,2,292133781,Can you find an apple in a garbage can?,True,9,17
+2,2,882973653,I think there is an apple in a garbage can. Is that correct?,False,9,17
+2,2,812551241,Can you find a bowl in the fridge?,True,7,19
+2,2,104430039,Is there a bowl in the fridge?,False,7,19
+2,2,168694527,Is there an egg in a garbage can?,True,5,17
+2,2,467914153,Please tell me if there is an egg in a garbage can?,False,5,17
+2,3,894197106,Is there a loaf of bread in a garbage can?,True,12,17
+2,3,17732726,Please tell me if there is a loaf of bread in a garbage can?,False,12,17
+2,3,889326040,Can you find an apple in a garbage can?,True,9,17
+2,3,516777762,Can you find an apple in a garbage can?,False,9,17
+2,3,553978466,Is there a mug in the fridge?,True,13,19
+2,3,119169811,Can you find a mug in the fridge?,False,13,19
+2,3,218895929,I think there is a tomato in a garbage can. Is that correct?,True,6,17
+2,3,291405321,I think there is a tomato in a garbage can. Is that correct?,False,6,17
+2,4,373373499,Is there a mug in the fridge?,True,13,19
+2,4,661073571,Can you find a mug in the fridge?,False,13,19
+2,4,312041361,Please tell me if there is a tomato in a garbage can?,True,6,17
+2,4,33711364,I think there is a tomato in a garbage can. Is that correct?,False,6,17
+2,4,488126429,I think there is an egg in a garbage can. Is that correct?,True,5,17
+2,4,191099099,Please tell me if there is an egg in a garbage can?,False,5,17
+2,4,303068790,Is there a mug in the microwave?,True,13,18
+2,4,547522761,Please tell me if there is a mug in the microwave?,False,13,18
+2,5,192484799,Can you find a loaf of bread in the fridge?,True,12,19
+2,5,682197640,Please tell me if there is a loaf of bread in the fridge?,False,12,19
+2,5,18010515,Please tell me if there is an apple in the fridge?,True,9,19
+2,5,629642896,Is there an apple in the fridge?,False,9,19
+2,5,966154989,Is there a loaf of bread in a cabinet?,True,12,20
+2,5,783721206,Can you find a loaf of bread in a cabinet?,False,12,20
+2,5,276411007,Is there an apple in a garbage can?,True,9,17
+2,5,856547403,Can you find an apple in a garbage can?,False,9,17
+2,1,105085777,Is there an egg in the microwave?,True,5,18
+2,1,376184465,Can you find an egg in the microwave?,False,5,18
+2,1,979085434,I think there is a bowl in the microwave. Is that correct?,True,7,18
+2,1,807058307,Can you find a bowl in the microwave?,False,7,18
+2,1,730259430,I think there is a bowl in a cabinet. Is that correct?,True,7,20
+2,1,492485241,Please tell me if there is a bowl in a cabinet?,False,7,20
+2,1,985938639,Is there an apple in a garbage can?,True,9,17
+2,1,656165461,I think there is an apple in a garbage can. Is that correct?,False,9,17
+2,2,655712936,Please tell me if there is a mug in the fridge?,True,13,19
+2,2,244459073,Is there a mug in the fridge?,False,13,19
+2,2,893699640,Please tell me if there is an egg in a garbage can?,True,5,17
+2,2,846626650,Please tell me if there is an egg in a garbage can?,False,5,17
+2,2,609290404,I think there is a tomato in the fridge. Is that correct?,True,6,19
+2,2,534232519,Can you find a tomato in the fridge?,False,6,19
+2,2,466695547,Please tell me if there is an egg in the microwave?,True,5,18
+2,2,880380891,Can you find an egg in the microwave?,False,5,18
+2,3,149277310,Is there a potato in a garbage can?,True,2,17
+2,3,980740354,Please tell me if there is a potato in a garbage can?,False,2,17
+2,3,576759432,Please tell me if there is a bowl in the fridge?,True,7,19
+2,3,506504966,Please tell me if there is a bowl in the fridge?,False,7,19
+2,3,71389247,I think there is a head of lettuce in the fridge. Is that correct?,True,8,19
+2,3,871766082,I think there is a head of lettuce in the fridge. Is that correct?,False,8,19
+2,3,538576915,I think there is a container in the microwave. Is that correct?,True,11,18
+2,3,876418109,I think there is a container in the microwave. Is that correct?,False,11,18
+2,4,633889804,Please tell me if there is an apple in a garbage can?,True,9,17
+2,4,287960690,Can you find an apple in a garbage can?,False,9,17
+2,4,779825185,Is there a loaf of bread in a cabinet?,True,12,20
+2,4,423355968,I think there is a loaf of bread in a cabinet. Is that correct?,False,12,20
+2,4,863314526,I think there is a container in the fridge. Is that correct?,True,11,19
+2,4,342708143,Can you find a container in the fridge?,False,11,19
+2,4,715890139,I think there is a knife in a cabinet. Is that correct?,True,10,20
+2,4,350046686,Is there a knife in a cabinet?,False,10,20
+2,5,483981704,I think there is an egg in a garbage can. Is that correct?,True,5,17
+2,5,368800962,Is there an egg in a garbage can?,False,5,17
+2,5,846214917,Can you find a bowl in the microwave?,True,7,18
+2,5,356428732,Please tell me if there is a bowl in the microwave?,False,7,18
+2,5,378141525,Can you find a loaf of bread in the microwave?,True,12,18
+2,5,806115375,I think there is a loaf of bread in the microwave. Is that correct?,False,12,18
+2,5,881116289,I think there is a plate in a cabinet. Is that correct?,True,4,20
+2,5,952643054,I think there is a plate in a cabinet. Is that correct?,False,4,20
+2,1,431006802,I think there is a mug in the fridge. Is that correct?,True,13,19
+2,1,60163450,Can you find a mug in the fridge?,False,13,19
+2,1,369032582,Is there an apple in a garbage can?,True,9,17
+2,1,708517660,Please tell me if there is an apple in a garbage can?,False,9,17
+2,1,987759314,I think there is a knife in a cabinet. Is that correct?,True,10,20
+2,1,567882241,Can you find a knife in a cabinet?,False,10,20
+2,1,10853927,Please tell me if there is a loaf of bread in a cabinet?,True,12,20
+2,1,409822537,Please tell me if there is a loaf of bread in a cabinet?,False,12,20
+2,2,7965200,I think there is a plate in the microwave. Is that correct?,True,4,18
+2,2,32725877,Please tell me if there is a plate in the microwave?,False,4,18
+2,2,945504096,I think there is an egg in a garbage can. Is that correct?,True,5,17
+2,2,498599840,I think there is an egg in a garbage can. Is that correct?,False,5,17
+2,2,41465900,Can you find a potato in a garbage can?,True,2,17
+2,2,798241421,Is there a potato in a garbage can?,False,2,17
+2,2,516789890,I think there is a potato in a cabinet. Is that correct?,True,2,20
+2,2,2496222,I think there is a potato in a cabinet. Is that correct?,False,2,20
+2,3,574525452,Can you find a mug in the microwave?,True,13,18
+2,3,994846705,I think there is a mug in the microwave. Is that correct?,False,13,18
+2,3,88185424,Can you find an egg in a garbage can?,True,5,17
+2,3,820372756,Can you find an egg in a garbage can?,False,5,17
+2,3,669278568,Is there a potato in a garbage can?,True,2,17
+2,3,965138630,Is there a potato in a garbage can?,False,2,17
+2,3,566870655,Please tell me if there is an egg in a garbage can?,True,5,17
+2,3,751935094,Can you find an egg in a garbage can?,False,5,17
+2,4,237541858,Can you find a container in the fridge?,True,11,19
+2,4,928724921,I think there is a container in the fridge. Is that correct?,False,11,19
+2,4,278091295,Is there a potato in a cabinet?,True,2,20
+2,4,276202838,I think there is a potato in a cabinet. Is that correct?,False,2,20
+2,4,227789376,Please tell me if there is a bowl in the fridge?,True,7,19
+2,4,880270701,Is there a bowl in the fridge?,False,7,19
+2,4,669737721,Can you find a loaf of bread in a garbage can?,True,12,17
+2,4,814466644,I think there is a loaf of bread in a garbage can. Is that correct?,False,12,17
+2,5,522566174,I think there is a potato in the microwave. Is that correct?,True,2,18
+2,5,205096698,I think there is a potato in the microwave. Is that correct?,False,2,18
+2,5,592822214,Can you find a container in a cabinet?,True,11,20
+2,5,925433375,Please tell me if there is a container in a cabinet?,False,11,20
+2,5,243326644,Is there an egg in the microwave?,True,5,18
+2,5,917214316,Please tell me if there is an egg in the microwave?,False,5,18
+2,5,295595661,Can you find an apple in the fridge?,True,9,19
+2,5,99606610,Please tell me if there is an apple in the fridge?,False,9,19
+2,1,652798718,Is there a mug in a cabinet?,True,13,20
+2,1,605207052,Is there a mug in a cabinet?,False,13,20
+2,1,263461895,Can you find a container in the fridge?,True,11,19
+2,1,974521826,I think there is a container in the fridge. Is that correct?,False,11,19
+2,1,277588390,Is there a plate in the microwave?,False,4,18
+2,1,577535456,Is there a plate in the microwave?,True,4,18
+2,1,349803559,Is there a mug in a cabinet?,True,13,20
+2,1,669124919,Is there a mug in a cabinet?,False,13,20
+2,2,509643011,Can you find a tomato in a garbage can?,True,6,17
+2,2,412600721,Is there a tomato in a garbage can?,False,6,17
+2,2,366984621,Can you find a plate in the microwave?,True,4,18
+2,2,409641054,Is there a plate in the microwave?,False,4,18
+2,2,513218548,Please tell me if there is a tomato in a garbage can?,True,6,17
+2,2,396429984,Can you find a tomato in a garbage can?,False,6,17
+2,2,116149686,Is there a fork in a cabinet?,True,3,20
+2,2,144695884,I think there is a fork in a cabinet. Is that correct?,False,3,20
+2,3,376679731,Please tell me if there is an egg in the fridge?,True,5,19
+2,3,280944484,Can you find an egg in the fridge?,False,5,19
+2,3,474818789,Is there a loaf of bread in a garbage can?,True,12,17
+2,3,652489967,I think there is a loaf of bread in a garbage can. Is that correct?,False,12,17
+2,3,316482901,Please tell me if there is a plate in the fridge?,True,4,19
+2,3,847251896,Can you find a plate in the fridge?,False,4,19
+2,3,406142676,Is there a potato in a garbage can?,True,2,17
+2,3,595806260,Is there a potato in a garbage can?,False,2,17
+2,4,993351716,Is there a potato in a garbage can?,True,2,17
+2,4,349389579,I think there is a potato in a garbage can. Is that correct?,False,2,17
+2,4,631019097,Please tell me if there is a plate in the microwave?,True,4,18
+2,4,716860015,I think there is a plate in the microwave. Is that correct?,False,4,18
+2,4,899503660,I think there is a fork in a cabinet. Is that correct?,True,3,20
+2,4,516931802,Please tell me if there is a fork in a cabinet?,False,3,20
+2,4,576127085,I think there is an egg in a garbage can. Is that correct?,True,5,17
+2,4,152764484,Can you find an egg in a garbage can?,False,5,17
+2,5,960751256,Please tell me if there is an apple in the fridge?,True,9,19
+2,5,428433019,I think there is an apple in the fridge. Is that correct?,False,9,19
+2,5,377749767,I think there is a container in a cabinet. Is that correct?,True,11,20
+2,5,559595187,Is there a container in a cabinet?,False,11,20
+2,5,658771363,Is there a mug in the microwave?,True,13,18
+2,5,708677970,Please tell me if there is a mug in the microwave?,False,13,18
+2,5,950295706,I think there is an egg in the fridge. Is that correct?,False,5,19
+2,5,649284685,Is there an egg in the fridge?,True,5,19
+2,1,560922503,Is there an apple in a garbage can?,True,9,17
+2,1,505867778,Is there an apple in a garbage can?,False,9,17
+2,1,52279694,I think there is a knife in a cabinet. Is that correct?,True,10,20
+2,1,879116938,Is there a knife in a cabinet?,False,10,20
+2,1,753408226,Can you find a loaf of bread in the fridge?,True,12,19
+2,1,165547934,I think there is a loaf of bread in the fridge. Is that correct?,False,12,19
+2,1,300318432,I think there is a mug in a cabinet. Is that correct?,True,13,20
+2,1,528951115,I think there is a mug in a cabinet. Is that correct?,False,13,20
+2,2,892635305,Please tell me if there is an apple in the fridge?,True,9,19
+2,2,173006447,Is there an apple in the fridge?,False,9,19
+2,2,248427995,Is there a mug in a cabinet?,True,13,20
+2,2,40885491,Is there a mug in a cabinet?,False,13,20
+2,2,417471215,Can you find a mug in the fridge?,True,13,19
+2,2,970097819,I think there is a mug in the fridge. Is that correct?,False,13,19
+2,2,96940088,Can you find an apple in the fridge?,True,9,19
+2,2,482201633,Can you find an apple in the fridge?,False,9,19
+2,3,654385753,I think there is an apple in a garbage can. Is that correct?,True,9,17
+2,3,574470206,Please tell me if there is an apple in a garbage can?,False,9,17
+2,3,391954218,Please tell me if there is a mug in the microwave?,True,13,18
+2,3,430694543,Is there a mug in the microwave?,False,13,18
+2,3,254240725,Can you find a mug in the microwave?,True,13,18
+2,3,317593444,Can you find a mug in the microwave?,False,13,18
+2,3,225726065,Is there an egg in the fridge?,True,5,19
+2,3,771984808,Please tell me if there is an egg in the fridge?,False,5,19
+2,4,926622122,Can you find a tomato in a garbage can?,True,6,17
+2,4,260849870,I think there is a tomato in a garbage can. Is that correct?,False,6,17
+2,4,737612592,I think there is a bowl in the microwave. Is that correct?,True,7,18
+2,4,14142996,Can you find a bowl in the microwave?,False,7,18
+2,4,929261790,I think there is a plate in the fridge. Is that correct?,True,4,19
+2,4,631873286,Can you find a plate in the fridge?,False,4,19
+2,4,338611643,Please tell me if there is a loaf of bread in a cabinet?,True,12,20
+2,4,602184133,Please tell me if there is a loaf of bread in a cabinet?,False,12,20
+2,5,579336189,Please tell me if there is a mug in the microwave?,True,13,18
+2,5,180064888,Please tell me if there is a mug in the microwave?,False,13,18
+2,5,360995376,I think there is a container in a cabinet. Is that correct?,True,11,20
+2,5,506611175,I think there is a container in a cabinet. Is that correct?,False,11,20
+2,5,554581180,I think there is a bowl in a cabinet. Is that correct?,True,7,20
+2,5,616841243,Please tell me if there is a bowl in a cabinet?,False,7,20
+2,5,819662454,I think there is a potato in a cabinet. Is that correct?,True,2,20
+2,5,340072706,Please tell me if there is a potato in a cabinet?,False,2,20
+2,1,878099871,Can you find a tomato in a garbage can?,True,6,17
+2,1,771287896,Is there a tomato in a garbage can?,False,6,17
+2,1,703370886,Please tell me if there is a plate in a cabinet?,True,4,20
+2,1,550039859,Is there a plate in a cabinet?,False,4,20
+2,1,858536052,Please tell me if there is an egg in the fridge?,True,5,19
+2,1,926278499,I think there is an egg in the fridge. Is that correct?,False,5,19
+2,1,605930394,Is there a container in the fridge?,True,11,19
+2,1,497130450,Please tell me if there is a container in the fridge?,False,11,19
+2,2,37863697,Is there a mug in the fridge?,True,13,19
+2,2,866457112,Please tell me if there is a mug in the fridge?,False,13,19
+2,2,887439488,I think there is a fork in a cabinet. Is that correct?,True,3,20
+2,2,332430747,Can you find a fork in a cabinet?,False,3,20
+2,2,825700768,Can you find a container in a cabinet?,True,11,20
+2,2,902016442,Please tell me if there is a container in a cabinet?,False,11,20
+2,2,522817442,I think there is a tomato in the fridge. Is that correct?,True,6,19
+2,2,539551835,Can you find a tomato in the fridge?,False,6,19
+2,3,443336670,Is there a bowl in the microwave?,True,7,18
+2,3,790989777,Please tell me if there is a bowl in the microwave?,False,7,18
+2,3,664955913,Please tell me if there is a bowl in the microwave?,True,7,18
+2,3,603956372,I think there is a bowl in the microwave. Is that correct?,False,7,18
+2,3,18363516,I think there is a mug in the microwave. Is that correct?,True,13,18
+2,3,67021501,Please tell me if there is a mug in the microwave?,False,13,18
+2,3,906638154,I think there is a mug in the microwave. Is that correct?,True,13,18
+2,3,840020868,Can you find a mug in the microwave?,False,13,18
+2,4,710950736,Please tell me if there is a potato in a garbage can?,True,2,17
+2,4,96771510,Please tell me if there is a potato in a garbage can?,False,2,17
+2,4,938386397,I think there is a bowl in a cabinet. Is that correct?,True,7,20
+2,4,231418813,Is there a bowl in a cabinet?,False,7,20
+2,4,876138738,Can you find a mug in a cabinet?,True,13,20
+2,4,282878859,Is there a mug in a cabinet?,False,13,20
+2,4,50979786,Can you find a spoon in a cabinet?,True,1,20
+2,4,653868466,Please tell me if there is a spoon in a cabinet?,False,1,20
+2,5,644840540,I think there is a loaf of bread in a cabinet. Is that correct?,True,12,20
+2,5,305379308,Please tell me if there is a loaf of bread in a cabinet?,False,12,20
+2,5,986567872,I think there is a loaf of bread in the microwave. Is that correct?,True,12,18
+2,5,316393038,Can you find a loaf of bread in the microwave?,False,12,18
+2,5,559191718,Is there an apple in a garbage can?,True,9,17
+2,5,814610338,Can you find an apple in a garbage can?,False,9,17
+2,5,561186541,Can you find a tomato in a garbage can?,True,6,17
+2,5,80697391,Is there a tomato in a garbage can?,False,6,17
+2,1,994153805,Is there a knife in a cabinet?,True,10,20
+2,1,915131994,Can you find a knife in a cabinet?,False,10,20
+2,1,478465255,Can you find an egg in the fridge?,False,5,19
+2,1,729015251,Please tell me if there is an egg in the fridge?,True,5,19
+2,1,106305671,Can you find an egg in a garbage can?,True,5,17
+2,1,38508794,Is there an egg in a garbage can?,False,5,17
+2,1,724598628,Is there a potato in a cabinet?,True,2,20
+2,1,75364874,I think there is a potato in a cabinet. Is that correct?,False,2,20
+2,2,283384334,Is there an apple in the fridge?,True,9,19
+2,2,334608847,Is there an apple in the fridge?,False,9,19
+2,2,442072796,I think there is an egg in the fridge. Is that correct?,True,5,19
+2,2,14153962,Please tell me if there is an egg in the fridge?,False,5,19
+2,2,108884866,Please tell me if there is an apple in the fridge?,True,9,19
+2,2,696684335,Is there an apple in the fridge?,False,9,19
+2,2,547459157,Is there a mug in the fridge?,True,13,19
+2,2,127603125,Please tell me if there is a mug in the fridge?,False,13,19
+2,3,507217524,Can you find a mug in the fridge?,True,13,19
+2,3,381249229,Please tell me if there is a mug in the fridge?,False,13,19
+2,3,90720459,Can you find a mug in the fridge?,True,13,19
+2,3,169974665,I think there is a mug in the fridge. Is that correct?,False,13,19
+2,3,217424065,Can you find a loaf of bread in a garbage can?,True,12,17
+2,3,728417509,Please tell me if there is a loaf of bread in a garbage can?,False,12,17
+2,3,736275632,I think there is a loaf of bread in the microwave. Is that correct?,True,12,18
+2,3,90646462,Please tell me if there is a loaf of bread in the microwave?,False,12,18
+2,4,748102317,Is there a mug in the microwave?,True,13,18
+2,4,918929215,Please tell me if there is a mug in the microwave?,False,13,18
+2,4,476217722,Please tell me if there is a mug in a cabinet?,True,13,20
+2,4,562086159,Please tell me if there is a mug in a cabinet?,False,13,20
+2,4,959442496,Please tell me if there is a mug in the microwave?,True,13,18
+2,4,541272493,Can you find a mug in the microwave?,False,13,18
+2,4,256933802,Please tell me if there is a plate in the microwave?,True,4,18
+2,4,140798261,I think there is a plate in the microwave. Is that correct?,False,4,18
+2,5,443938388,Is there a mug in the microwave?,True,13,18
+2,5,210709900,I think there is a mug in the microwave. Is that correct?,False,13,18
+2,5,758947471,Can you find a mug in the fridge?,True,13,19
+2,5,75961404,Can you find a mug in the fridge?,False,13,19
+2,5,25187979,Can you find an egg in the microwave?,True,5,18
+2,5,409333358,Can you find an egg in the microwave?,False,5,18
+2,5,723235266,Please tell me if there is an apple in the fridge?,True,9,19
+2,5,343128951,Can you find an apple in the fridge?,False,9,19
+2,1,199558788,Can you find an apple in a garbage can?,True,9,17
+2,1,256315095,I think there is an apple in a garbage can. Is that correct?,False,9,17
+2,1,245183161,I think there is an apple in the fridge. Is that correct?,True,9,19
+2,1,190438776,Is there an apple in the fridge?,False,9,19
+2,1,408028997,Is there a tomato in a garbage can?,True,6,17
+2,1,827031667,Is there a tomato in a garbage can?,False,6,17
+2,1,311114957,I think there is a mug in the microwave. Is that correct?,True,13,18
+2,1,662181169,Please tell me if there is a mug in the microwave?,False,13,18
+2,2,76350975,Please tell me if there is an egg in the microwave?,True,5,18
+2,2,117233066,Please tell me if there is an egg in the microwave?,False,5,18
+2,2,670587678,Please tell me if there is a potato in the microwave?,True,2,18
+2,2,347165868,Can you find a potato in the microwave?,False,2,18
+2,2,56221931,Is there a tomato in a garbage can?,True,6,17
+2,2,883021555,Is there a tomato in a garbage can?,False,6,17
+2,2,539675735,Please tell me if there is a tomato in a garbage can?,True,6,17
+2,2,583171446,Can you find a tomato in a garbage can?,False,6,17
+2,3,970841744,Please tell me if there is an egg in the fridge?,True,5,19
+2,3,348037948,I think there is an egg in the fridge. Is that correct?,False,5,19
+2,3,966665725,Is there a mug in the fridge?,True,13,19
+2,3,956716492,Is there a mug in the fridge?,False,13,19
+2,3,32569647,I think there is an apple in the fridge. Is that correct?,True,9,19
+2,3,124637696,Can you find an apple in the fridge?,False,9,19
+2,3,686724474,I think there is a plate in the microwave. Is that correct?,True,4,18
+2,3,138188935,Can you find a plate in the microwave?,False,4,18
+2,4,707555505,Can you find a potato in the microwave?,True,2,18
+2,4,376304532,Please tell me if there is a potato in the microwave?,False,2,18
+2,4,853417795,Can you find a tomato in the fridge?,True,6,19
+2,4,912572461,Is there a tomato in the fridge?,False,6,19
+2,4,558800817,Is there a bowl in the microwave?,True,7,18
+2,4,409999168,I think there is a bowl in the microwave. Is that correct?,False,7,18
+2,4,810933697,Is there an egg in the fridge?,True,5,19
+2,4,266695632,Is there an egg in the fridge?,False,5,19
+2,5,235946671,I think there is a knife in a cabinet. Is that correct?,True,10,20
+2,5,535495465,Can you find a knife in a cabinet?,False,10,20
+2,5,248511428,I think there is a mug in the fridge. Is that correct?,True,13,19
+2,5,279908969,Is there a mug in the fridge?,False,13,19
+2,5,552643578,Please tell me if there is a plate in the fridge?,True,4,19
+2,5,800823054,Can you find a plate in the fridge?,False,4,19
+2,5,255037681,Can you find a plate in the microwave?,True,4,18
+2,5,836785722,Please tell me if there is a plate in the microwave?,False,4,18
+2,1,422545263,Please tell me if there is a bowl in the microwave?,True,7,18
+2,1,456512233,Can you find a bowl in the microwave?,False,7,18
+2,1,337901589,Please tell me if there is a tomato in a garbage can?,True,6,17
+2,1,49807169,Please tell me if there is a tomato in a garbage can?,False,6,17
+2,1,23779786,Please tell me if there is a knife in a cabinet?,True,10,20
+2,1,884450428,Please tell me if there is a knife in a cabinet?,False,10,20
+2,1,626688638,Can you find an apple in a garbage can?,True,9,17
+2,1,666966230,Is there an apple in a garbage can?,False,9,17
+2,2,493229421,Please tell me if there is a plate in the microwave?,True,4,18
+2,2,582454975,Is there a plate in the microwave?,False,4,18
+2,2,804214763,Please tell me if there is an egg in the microwave?,True,5,18
+2,2,289034880,Is there an egg in the microwave?,False,5,18
+2,2,831917558,Can you find a mug in the fridge?,True,13,19
+2,2,619452136,Is there a mug in the fridge?,False,13,19
+2,2,876725984,Can you find a container in the microwave?,True,11,18
+2,2,795485499,Can you find a container in the microwave?,False,11,18
+2,3,281426068,Can you find a tomato in the fridge?,True,6,19
+2,3,664375793,Can you find a tomato in the fridge?,False,6,19
+2,3,697263091,Please tell me if there is a mug in the microwave?,True,13,18
+2,3,761900249,Please tell me if there is a mug in the microwave?,False,13,18
+2,3,731875017,Is there a loaf of bread in the fridge?,True,12,19
+2,3,61514416,I think there is a loaf of bread in the fridge. Is that correct?,False,12,19
+2,3,729715818,Can you find an egg in the microwave?,True,5,18
+2,3,985625755,I think there is an egg in the microwave. Is that correct?,False,5,18
+2,4,740746928,Can you find a potato in the microwave?,True,2,18
+2,4,680102226,Is there a potato in the microwave?,False,2,18
+2,4,111027034,I think there is a mug in the microwave. Is that correct?,True,13,18
+2,4,424729515,Please tell me if there is a mug in the microwave?,False,13,18
+2,4,476454244,Is there a loaf of bread in a cabinet?,True,12,20
+2,4,130010691,Please tell me if there is a loaf of bread in a cabinet?,False,12,20
+2,4,560808672,Can you find a head of lettuce in the fridge?,True,8,19
+2,4,763009454,Is there a head of lettuce in the fridge?,False,8,19
+2,5,631003301,I think there is an egg in the microwave. Is that correct?,True,5,18
+2,5,594774145,I think there is an egg in the microwave. Is that correct?,False,5,18
+2,5,513602226,I think there is a loaf of bread in a garbage can. Is that correct?,True,12,17
+2,5,405017265,Is there a loaf of bread in a garbage can?,False,12,17
+2,5,43787567,I think there is a loaf of bread in a cabinet. Is that correct?,True,12,20
+2,5,816876326,Can you find a loaf of bread in a cabinet?,False,12,20
+2,5,96966961,I think there is a container in a cabinet. Is that correct?,True,11,20
+2,5,552283097,Can you find a container in a cabinet?,False,11,20
+2,1,380231970,I think there is a mug in the fridge. Is that correct?,True,13,19
+2,1,696545697,Is there a mug in the fridge?,False,13,19
+2,1,871208035,Please tell me if there is an apple in a garbage can?,True,9,17
+2,1,510143717,Please tell me if there is an apple in a garbage can?,False,9,17
+2,1,64741026,Is there a mug in the microwave?,True,13,18
+2,1,972637368,I think there is a mug in the microwave. Is that correct?,False,13,18
+2,1,117734128,I think there is a potato in a garbage can. Is that correct?,True,2,17
+2,1,872253134,Is there a potato in a garbage can?,False,2,17
+2,2,865049797,Please tell me if there is an egg in a garbage can?,True,5,17
+2,2,235622966,Please tell me if there is an egg in a garbage can?,False,5,17
+2,2,597823163,Please tell me if there is a bowl in the fridge?,True,7,19
+2,2,317031039,Can you find a bowl in the fridge?,False,7,19
+2,2,414580289,Please tell me if there is a plate in a cabinet?,True,4,20
+2,2,982556855,I think there is a plate in a cabinet. Is that correct?,False,4,20
+2,2,211257922,I think there is an egg in the microwave. Is that correct?,True,5,18
+2,2,185732356,Is there an egg in the microwave?,False,5,18
+2,3,889192775,Please tell me if there is a potato in the fridge?,True,2,19
+2,3,836955772,Please tell me if there is a potato in the fridge?,False,2,19
+2,3,39349343,Is there a bowl in the microwave?,True,7,18
+2,3,347379426,Is there a bowl in the microwave?,False,7,18
+2,3,170723930,I think there is an egg in a garbage can. Is that correct?,True,5,17
+2,3,386569926,Please tell me if there is an egg in a garbage can?,False,5,17
+2,3,24250220,Is there a potato in a garbage can?,True,2,17
+2,3,406547424,I think there is a potato in a garbage can. Is that correct?,False,2,17
+2,4,67744707,I think there is a mug in the microwave. Is that correct?,True,13,18
+2,4,292835718,I think there is a mug in the microwave. Is that correct?,False,13,18
+2,4,651617135,Please tell me if there is a mug in the fridge?,True,13,19
+2,4,477265062,Is there a mug in the fridge?,False,13,19
+2,4,140484163,Please tell me if there is a loaf of bread in the fridge?,True,12,19
+2,4,245188995,Please tell me if there is a loaf of bread in the fridge?,False,12,19
+2,4,832599382,Can you find a bowl in the fridge?,True,7,19
+2,4,27582857,Please tell me if there is a bowl in the fridge?,False,7,19
+2,5,602677342,Can you find an egg in a garbage can?,True,5,17
+2,5,376661983,Is there an egg in a garbage can?,False,5,17
+2,5,970101355,Please tell me if there is a tomato in a garbage can?,True,6,17
+2,5,37883188,Please tell me if there is a tomato in a garbage can?,False,6,17
+2,5,136195577,Can you find a mug in the microwave?,True,13,18
+2,5,147424425,Can you find a mug in the microwave?,False,13,18
+2,5,344214406,Is there a mug in the microwave?,True,13,18
+2,5,700062563,I think there is a mug in the microwave. Is that correct?,False,13,18

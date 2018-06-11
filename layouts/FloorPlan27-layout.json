@@ -1,0 +1,254 @@
+{
+  "allPoints": [
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 1.0
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.0,
+      "z": 1.0
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 1.25
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.75
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.0,
+      "z": 0.75
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.0,
+      "z": 1.25
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 1.5
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.5
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.0,
+      "z": 0.5
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.0,
+      "z": 1.5
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 1.75
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.25
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.9795932769775391,
+      "z": 1.75
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.0,
+      "z": 2.0
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": -0.25
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 0.75,
+      "y": 0.0,
+      "z": 0.0
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 1.0,
+      "y": 0.0,
+      "z": -0.5
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 0.75,
+      "y": 0.0,
+      "z": -0.25
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 0.75,
+      "y": 0.0,
+      "z": -0.5
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": false,
+      "pivotId": 0,
+      "receptacleObjectId": "",
+      "rotation": 0.0,
+      "x": 0.5,
+      "y": 0.0,
+      "z": -0.25
+    },
+    {
+      "horizon": 0.0,
+      "openReceptacle": true,
+      "pivotId": 0,
+      "receptacleObjectId": "Cabinet|+01.97|+02.11|+02.62",
+      "rotation": 0.0,
+      "x": 1.25,
+      "y": 0.0,
+      "z": 1.75
+    }
+  ],
+  "receptaclePivotPoints": [],
+  "receptaclePoints": [
+    {
+      "distance": 1.5993993282318115,
+      "pivotId": 0,
+      "receptacleObjectId": "Cabinet|+01.97|+02.11|+02.62",
+      "searchNode": {
+        "horizon": 0.0,
+        "openReceptacle": false,
+        "pivotId": 0,
+        "receptacleObjectId": "",
+        "rotation": 0.0,
+        "x": 1.25,
+        "y": 0.9795932769775391,
+        "z": 1.75
+      }
+    }
+  ],
+  "screenHeight": 300,
+  "screenWidth": 300
+}

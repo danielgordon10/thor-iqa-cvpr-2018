@@ -1,0 +1,801 @@
+question_type,scene_number,seed,question,answer,object_id,container_id
+0,6,210840849,I think a fork is in the room. Is that correct?,True,3,21
+0,6,176003513,Is there a fork somewhere in the room?,False,3,21
+0,6,120523470,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,6,927151,Is there a tomato somewhere in the room?,False,6,21
+0,7,901858207,Is there a container somewhere in the room?,True,11,21
+0,7,542548253,Is there a container in the room?,False,11,21
+0,7,779568967,Is there a fork somewhere in the room?,True,3,21
+0,7,450561162,Is there a fork somewhere in the room?,False,3,21
+0,8,804002748,Is there a plate somewhere in the room?,False,4,21
+0,8,851748593,Do we have any plates?,True,4,21
+0,8,309604994,Is there a tomato somewhere nearby?,True,6,21
+0,8,169306830,Please tell me if there is a tomato somewhere in the room.,False,6,21
+0,9,151231251,Please tell me if there is an apple somewhere in the room.,False,9,21
+0,9,384166561,I think an apple is in the room. Is that correct?,True,9,21
+0,9,718666912,Is there an apple somewhere nearby?,True,9,21
+0,9,477522074,Do we have any apples?,False,9,21
+0,10,326161705,Is there a bowl somewhere in the room?,False,7,21
+0,10,317431421,Do we have any bowls?,True,7,21
+0,10,918829761,Do we have any containers?,True,11,21
+0,10,992596404,Do we have any containers?,False,11,21
+0,11,386284511,Is there a plate somewhere nearby?,False,4,21
+0,11,331266108,Please tell me if there is a plate somewhere in the room.,True,4,21
+0,11,911280105,Is there a container somewhere nearby?,True,11,21
+0,11,135828322,Do we have any containers?,False,11,21
+0,12,797902585,Is there a bowl somewhere in the room?,True,7,21
+0,12,287644607,Is there a bowl somewhere in the room?,False,7,21
+0,12,332938079,I think a fork is in the room. Is that correct?,True,3,21
+0,12,323850365,Is there a fork somewhere in the room?,False,3,21
+0,13,826826050,Please tell me if there is a spoon somewhere in the room.,True,1,21
+0,13,924239620,Do we have any spoons?,False,1,21
+0,13,542337759,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,13,133686816,Is there a bowl somewhere in the room?,True,7,21
+0,14,716564345,Please tell me if there is an apple somewhere in the room.,True,9,21
+0,14,420824113,Please tell me if there is an apple somewhere in the room.,False,9,21
+0,14,12676533,Please tell me if there is a container somewhere in the room.,True,11,21
+0,14,627045458,Is there a container in the room?,False,11,21
+0,15,348396610,Do we have any spoons?,True,1,21
+0,15,641629573,Is there a spoon somewhere nearby?,False,1,21
+0,15,911151851,Is there a bowl in the room?,False,7,21
+0,15,464518480,Is there a bowl somewhere in the room?,True,7,21
+0,16,965127272,Do we have any heads of lettuce?,True,8,21
+0,16,908870235,Please tell me if there is a head of lettuce somewhere in the room.,False,8,21
+0,16,323126376,Please tell me if there is an egg somewhere in the room.,True,5,21
+0,16,938792230,Is there an egg somewhere in the room?,False,5,21
+0,17,331897486,Is there a bowl somewhere in the room?,False,7,21
+0,17,157566998,Is there a bowl somewhere nearby?,True,7,21
+0,17,705833416,I think a bowl is in the room. Is that correct?,False,7,21
+0,17,11678728,Is there a bowl somewhere nearby?,True,7,21
+0,18,269054032,Is there a loaf of bread in the room?,True,12,21
+0,18,174265644,Is there a loaf of bread somewhere nearby?,False,12,21
+0,18,444267218,I think a tomato is in the room. Is that correct?,False,6,21
+0,18,762572323,Is there a tomato in the room?,True,6,21
+0,19,921322455,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,19,579752999,Do we have any knives?,False,10,21
+0,19,406383363,Please tell me if there is a fork somewhere in the room.,False,3,21
+0,19,481627540,Is there a fork in the room?,True,3,21
+0,20,600656101,Please tell me if there is a head of lettuce somewhere in the room.,False,8,21
+0,20,651953035,I think a head of lettuce is in the room. Is that correct?,True,8,21
+0,20,570304913,Do we have any tomatoes?,True,6,21
+0,20,147923651,Please tell me if there is a tomato somewhere in the room.,False,6,21
+0,21,138942560,I think a loaf of bread is in the room. Is that correct?,True,12,21
+0,21,966636448,Do we have any loaves of bread?,False,12,21
+0,21,208919500,Is there a container in the room?,True,11,21
+0,21,547082450,Is there a container in the room?,False,11,21
+0,22,182923158,Please tell me if there is a bowl somewhere in the room.,True,7,21
+0,22,782087240,Do we have any bowls?,False,7,21
+0,22,21459683,Is there an apple in the room?,True,9,21
+0,22,787602611,Do we have any apples?,False,9,21
+0,23,495522277,Is there a loaf of bread somewhere nearby?,True,12,21
+0,23,494048470,Is there a loaf of bread in the room?,False,12,21
+0,23,575277949,Is there a mug somewhere nearby?,True,13,21
+0,23,233155131,Is there a mug somewhere in the room?,False,13,21
+0,24,158559562,Do we have any knives?,True,10,21
+0,24,789399390,Is there a knife somewhere in the room?,False,10,21
+0,24,966958832,Is there a plate somewhere nearby?,True,4,21
+0,24,81941608,Is there a plate in the room?,False,4,21
+0,25,915939312,Is there a container in the room?,True,11,21
+0,25,850303504,Please tell me if there is a container somewhere in the room.,False,11,21
+0,25,117263620,Is there a loaf of bread in the room?,True,12,21
+0,25,786152276,I think a loaf of bread is in the room. Is that correct?,False,12,21
+0,26,768502191,I think a potato is in the room. Is that correct?,True,2,21
+0,26,633977518,I think a potato is in the room. Is that correct?,False,2,21
+0,26,56299962,Please tell me if there is a head of lettuce somewhere in the room.,True,8,21
+0,26,320767806,Is there a head of lettuce somewhere in the room?,False,8,21
+0,27,420299425,Please tell me if there is a container somewhere in the room.,False,11,21
+0,27,937115543,Do we have any containers?,True,11,21
+0,27,335910304,I think a container is in the room. Is that correct?,False,11,21
+0,27,485585212,Is there a container in the room?,True,11,21
+0,28,106667091,Do we have any plates?,False,4,21
+0,28,890613176,Do we have any plates?,True,4,21
+0,28,89341198,I think a bowl is in the room. Is that correct?,True,7,21
+0,28,977540664,Is there a bowl somewhere nearby?,False,7,21
+0,29,905597084,Is there a container somewhere nearby?,True,11,21
+0,29,118612829,Is there a container somewhere nearby?,False,11,21
+0,29,943139834,Is there an apple somewhere nearby?,False,9,21
+0,29,629793295,Do we have any apples?,True,9,21
+0,30,152857717,Is there a container somewhere nearby?,True,11,21
+0,30,574361102,Is there a container somewhere in the room?,False,11,21
+0,30,155884644,Is there an egg in the room?,False,5,21
+0,30,252690395,Is there an egg somewhere in the room?,True,5,21
+0,6,974021659,I think a spoon is in the room. Is that correct?,False,1,21
+0,6,223415790,Is there a spoon somewhere in the room?,True,1,21
+0,6,725444658,Is there a knife somewhere in the room?,True,10,21
+0,6,263167225,I think a knife is in the room. Is that correct?,False,10,21
+0,7,703471391,Is there a container in the room?,True,11,21
+0,7,963645161,Is there a container somewhere nearby?,False,11,21
+0,7,455924198,I think a plate is in the room. Is that correct?,False,4,21
+0,7,43240459,Is there a plate somewhere in the room?,True,4,21
+0,8,590485126,Is there a bowl in the room?,True,7,21
+0,8,400431842,Is there a bowl somewhere nearby?,False,7,21
+0,8,413561128,I think a loaf of bread is in the room. Is that correct?,True,12,21
+0,8,542860160,Do we have any loaves of bread?,False,12,21
+0,9,507836379,I think a knife is in the room. Is that correct?,True,10,21
+0,9,22774218,I think a knife is in the room. Is that correct?,False,10,21
+0,9,586080833,Do we have any containers?,True,11,21
+0,9,755194857,Is there a container in the room?,False,11,21
+0,10,944655394,Do we have any knives?,False,10,21
+0,10,678848247,Is there a knife somewhere nearby?,True,10,21
+0,10,959292989,Do we have any loaves of bread?,True,12,21
+0,10,379587756,Is there a loaf of bread somewhere in the room?,False,12,21
+0,11,900572467,Is there an apple somewhere in the room?,True,9,21
+0,11,328458151,I think an apple is in the room. Is that correct?,False,9,21
+0,11,576056212,Is there a head of lettuce in the room?,False,8,21
+0,11,565958254,Do we have any heads of lettuce?,True,8,21
+0,12,81834675,Is there a plate in the room?,True,4,21
+0,12,653357541,Is there a plate somewhere nearby?,False,4,21
+0,12,317943843,Is there a tomato somewhere in the room?,False,6,21
+0,12,995265765,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,13,224286478,I think an apple is in the room. Is that correct?,False,9,21
+0,13,807426104,Is there an apple somewhere in the room?,True,9,21
+0,13,571139016,Please tell me if there is a tomato somewhere in the room.,False,6,21
+0,13,592450470,Is there a tomato in the room?,True,6,21
+0,14,443078171,I think a knife is in the room. Is that correct?,True,10,21
+0,14,598952533,I think a knife is in the room. Is that correct?,False,10,21
+0,14,116470255,I think a container is in the room. Is that correct?,True,11,21
+0,14,7133501,Is there a container somewhere in the room?,False,11,21
+0,15,755287498,Is there a container in the room?,True,11,21
+0,15,405357830,Please tell me if there is a container somewhere in the room.,False,11,21
+0,15,408792212,Please tell me if there is a head of lettuce somewhere in the room.,True,8,21
+0,15,150115364,I think a head of lettuce is in the room. Is that correct?,False,8,21
+0,16,594415908,I think a mug is in the room. Is that correct?,True,13,21
+0,16,390698730,Do we have any mugs?,False,13,21
+0,16,20528595,Is there a mug somewhere in the room?,True,13,21
+0,16,61307632,Is there a mug somewhere in the room?,False,13,21
+0,17,242893402,I think a potato is in the room. Is that correct?,False,2,21
+0,17,96178636,Do we have any potatoes?,True,2,21
+0,17,72139078,Is there an egg somewhere in the room?,True,5,21
+0,17,920206828,Is there an egg somewhere nearby?,False,5,21
+0,18,864635641,I think a container is in the room. Is that correct?,True,11,21
+0,18,192491974,Do we have any containers?,False,11,21
+0,18,302070142,Is there an egg somewhere nearby?,True,5,21
+0,18,809547761,I think an egg is in the room. Is that correct?,False,5,21
+0,19,339390256,Is there a fork somewhere in the room?,True,3,21
+0,19,530911282,Is there a fork in the room?,False,3,21
+0,19,746982727,Is there a head of lettuce somewhere in the room?,False,8,21
+0,19,459014495,I think a head of lettuce is in the room. Is that correct?,True,8,21
+0,20,673273529,Is there a bowl somewhere nearby?,True,7,21
+0,20,464571395,Is there a bowl somewhere in the room?,False,7,21
+0,20,249696431,Is there a tomato somewhere in the room?,True,6,21
+0,20,496430665,I think a tomato is in the room. Is that correct?,False,6,21
+0,21,525405638,Do we have any spoons?,False,1,21
+0,21,410118647,I think a spoon is in the room. Is that correct?,True,1,21
+0,21,564596193,I think a spoon is in the room. Is that correct?,True,1,21
+0,21,370020810,Do we have any spoons?,False,1,21
+0,22,315083728,Do we have any containers?,False,11,21
+0,22,170285855,Please tell me if there is a container somewhere in the room.,True,11,21
+0,22,939754893,Please tell me if there is a spoon somewhere in the room.,True,1,21
+0,22,349437813,Is there a spoon somewhere nearby?,False,1,21
+0,23,404388313,Is there a head of lettuce in the room?,True,8,21
+0,23,446830568,Is there a head of lettuce in the room?,False,8,21
+0,23,219895519,Is there a potato somewhere in the room?,True,2,21
+0,23,665061449,Please tell me if there is a potato somewhere in the room.,False,2,21
+0,24,716797005,I think a spoon is in the room. Is that correct?,False,1,21
+0,24,201542124,Is there a spoon in the room?,True,1,21
+0,24,564474674,Do we have any containers?,True,11,21
+0,24,117178789,Is there a container in the room?,False,11,21
+0,25,635185176,I think a plate is in the room. Is that correct?,True,4,21
+0,25,190652574,I think a plate is in the room. Is that correct?,False,4,21
+0,25,305746478,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,25,643973906,Is there a knife somewhere in the room?,False,10,21
+0,26,286274783,Is there an apple in the room?,True,9,21
+0,26,760679627,I think an apple is in the room. Is that correct?,False,9,21
+0,26,168994441,Please tell me if there is a head of lettuce somewhere in the room.,True,8,21
+0,26,906461171,Is there a head of lettuce somewhere in the room?,False,8,21
+0,27,276474915,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,27,281840509,Is there a tomato in the room?,False,6,21
+0,27,605021171,Do we have any eggs?,True,5,21
+0,27,72541609,I think an egg is in the room. Is that correct?,False,5,21
+0,28,530374073,I think a spoon is in the room. Is that correct?,True,1,21
+0,28,735897458,Is there a spoon in the room?,False,1,21
+0,28,596400931,Do we have any forks?,False,3,21
+0,28,164248559,Is there a fork somewhere in the room?,True,3,21
+0,29,278722996,I think a tomato is in the room. Is that correct?,False,6,21
+0,29,792069688,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,29,275311482,Is there a knife in the room?,True,10,21
+0,29,429353320,Please tell me if there is a knife somewhere in the room.,False,10,21
+0,30,311903853,I think a container is in the room. Is that correct?,False,11,21
+0,30,48281312,Please tell me if there is a container somewhere in the room.,True,11,21
+0,30,131513154,Is there a potato somewhere nearby?,True,2,21
+0,30,369196968,Is there a potato somewhere nearby?,False,2,21
+0,6,309513243,Is there a bowl somewhere nearby?,False,7,21
+0,6,291350506,Is there a bowl somewhere nearby?,True,7,21
+0,6,126585027,Do we have any eggs?,True,5,21
+0,6,343132768,I think an egg is in the room. Is that correct?,False,5,21
+0,7,596490102,I think a knife is in the room. Is that correct?,False,10,21
+0,7,657158829,Do we have any knives?,True,10,21
+0,7,873814163,Is there a fork somewhere in the room?,True,3,21
+0,7,197477269,Do we have any forks?,False,3,21
+0,8,644569227,I think a knife is in the room. Is that correct?,False,10,21
+0,8,944115606,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,8,129041783,I think a spoon is in the room. Is that correct?,True,1,21
+0,8,24265965,I think a spoon is in the room. Is that correct?,False,1,21
+0,9,38531228,I think a tomato is in the room. Is that correct?,True,6,21
+0,9,254298920,Do we have any tomatoes?,False,6,21
+0,9,120877994,Do we have any heads of lettuce?,True,8,21
+0,9,310832216,Is there a head of lettuce in the room?,False,8,21
+0,10,637639558,I think a bowl is in the room. Is that correct?,True,7,21
+0,10,184278637,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,10,301535492,Is there a fork in the room?,True,3,21
+0,10,354345955,Is there a fork somewhere nearby?,False,3,21
+0,11,717449752,Is there a potato somewhere in the room?,True,2,21
+0,11,524653902,Please tell me if there is a potato somewhere in the room.,False,2,21
+0,11,274920091,Is there a plate somewhere nearby?,False,4,21
+0,11,963039745,Is there a plate in the room?,True,4,21
+0,12,180889758,Is there a knife somewhere in the room?,True,10,21
+0,12,84239927,Please tell me if there is a knife somewhere in the room.,False,10,21
+0,12,193652497,I think a container is in the room. Is that correct?,True,11,21
+0,12,7634053,Is there a container somewhere nearby?,False,11,21
+0,13,842534205,Do we have any bowls?,False,7,21
+0,13,529688425,Is there a bowl in the room?,True,7,21
+0,13,750819939,Is there a spoon somewhere nearby?,True,1,21
+0,13,256639088,Is there a spoon somewhere nearby?,False,1,21
+0,14,156692510,Is there a head of lettuce somewhere nearby?,True,8,21
+0,14,582786906,I think a head of lettuce is in the room. Is that correct?,False,8,21
+0,14,81374043,I think a knife is in the room. Is that correct?,True,10,21
+0,14,126234579,Please tell me if there is a knife somewhere in the room.,False,10,21
+0,15,296659639,Is there a bowl in the room?,False,7,21
+0,15,244015669,Do we have any bowls?,True,7,21
+0,15,725740669,Is there a container somewhere nearby?,True,11,21
+0,15,791113539,Please tell me if there is a container somewhere in the room.,False,11,21
+0,16,866984828,I think a container is in the room. Is that correct?,True,11,21
+0,16,919538960,Is there a container somewhere in the room?,False,11,21
+0,16,811082491,Is there a loaf of bread somewhere in the room?,True,12,21
+0,16,241190648,Do we have any loaves of bread?,False,12,21
+0,17,884799458,I think a plate is in the room. Is that correct?,False,4,21
+0,17,491258548,I think a plate is in the room. Is that correct?,True,4,21
+0,17,908833263,Is there a loaf of bread somewhere in the room?,True,12,21
+0,17,114842920,I think a loaf of bread is in the room. Is that correct?,False,12,21
+0,18,58703609,Is there a potato somewhere in the room?,False,2,21
+0,18,525468148,I think a potato is in the room. Is that correct?,True,2,21
+0,18,388144959,I think a loaf of bread is in the room. Is that correct?,True,12,21
+0,18,166553187,Is there a loaf of bread in the room?,False,12,21
+0,19,179886843,Do we have any spoons?,True,1,21
+0,19,664291528,Do we have any spoons?,False,1,21
+0,19,9832257,Do we have any loaves of bread?,True,12,21
+0,19,710163714,Do we have any loaves of bread?,False,12,21
+0,20,725699963,Is there a plate somewhere nearby?,True,4,21
+0,20,853112994,Is there a plate somewhere in the room?,False,4,21
+0,20,317263713,Is there a knife somewhere nearby?,True,10,21
+0,20,962256787,I think a knife is in the room. Is that correct?,False,10,21
+0,21,566113958,Is there a tomato in the room?,False,6,21
+0,21,947455481,Is there a tomato in the room?,True,6,21
+0,21,607651183,Please tell me if there is a plate somewhere in the room.,True,4,21
+0,21,222032275,Is there a plate somewhere nearby?,False,4,21
+0,22,2432236,Is there a potato somewhere nearby?,False,2,21
+0,22,742036964,Is there a potato somewhere nearby?,True,2,21
+0,22,987899126,Do we have any containers?,True,11,21
+0,22,321356194,I think a container is in the room. Is that correct?,False,11,21
+0,23,836291728,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,23,80805836,Is there a tomato somewhere nearby?,False,6,21
+0,23,400637626,I think a container is in the room. Is that correct?,False,11,21
+0,23,947436916,Do we have any containers?,True,11,21
+0,24,848701360,Is there a container somewhere nearby?,True,11,21
+0,24,816893522,I think a container is in the room. Is that correct?,False,11,21
+0,24,430835644,Do we have any heads of lettuce?,False,8,21
+0,24,464870640,Do we have any heads of lettuce?,True,8,21
+0,25,705392635,I think a tomato is in the room. Is that correct?,True,6,21
+0,25,153758705,Is there a tomato in the room?,False,6,21
+0,25,79958439,Is there a bowl in the room?,True,7,21
+0,25,963334907,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,26,36921982,Is there a loaf of bread somewhere in the room?,False,12,21
+0,26,118990091,Do we have any loaves of bread?,True,12,21
+0,26,181287373,Is there a potato somewhere in the room?,True,2,21
+0,26,373058050,Is there a potato in the room?,False,2,21
+0,27,493406826,Please tell me if there is a spoon somewhere in the room.,True,1,21
+0,27,423238977,Is there a spoon somewhere in the room?,False,1,21
+0,27,342503809,Is there a knife somewhere nearby?,True,10,21
+0,27,855740495,Is there a knife in the room?,False,10,21
+0,28,153168549,Do we have any tomatoes?,False,6,21
+0,28,491157899,Is there a tomato somewhere nearby?,True,6,21
+0,28,684168291,Please tell me if there is a container somewhere in the room.,True,11,21
+0,28,949261618,Is there a container somewhere nearby?,False,11,21
+0,29,322073029,Is there a head of lettuce somewhere in the room?,False,8,21
+0,29,839185979,Is there a head of lettuce in the room?,True,8,21
+0,29,763517663,I think a head of lettuce is in the room. Is that correct?,False,8,21
+0,29,147476421,Is there a head of lettuce somewhere nearby?,True,8,21
+0,30,335116538,Is there a head of lettuce somewhere in the room?,True,8,21
+0,30,916207492,Is there a head of lettuce in the room?,False,8,21
+0,30,913382002,I think a mug is in the room. Is that correct?,True,13,21
+0,30,236589297,Do we have any mugs?,False,13,21
+0,6,341093762,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,6,873692080,Is there a knife somewhere nearby?,False,10,21
+0,6,399324004,Please tell me if there is a potato somewhere in the room.,False,2,21
+0,6,436660990,Is there a potato somewhere nearby?,True,2,21
+0,7,48897857,Is there a head of lettuce somewhere in the room?,True,8,21
+0,7,370936274,I think a head of lettuce is in the room. Is that correct?,False,8,21
+0,7,175326808,Is there a potato somewhere in the room?,True,2,21
+0,7,365868146,Is there a potato somewhere in the room?,False,2,21
+0,8,705086361,Is there a plate in the room?,True,4,21
+0,8,337428290,Is there a plate somewhere nearby?,False,4,21
+0,8,773935456,Do we have any containers?,True,11,21
+0,8,861260344,Please tell me if there is a container somewhere in the room.,False,11,21
+0,9,148512135,Is there a knife somewhere in the room?,False,10,21
+0,9,809185146,Is there a knife somewhere in the room?,True,10,21
+0,9,978054279,Do we have any heads of lettuce?,True,8,21
+0,9,247986579,Is there a head of lettuce somewhere nearby?,False,8,21
+0,10,355288210,I think a plate is in the room. Is that correct?,True,4,21
+0,10,524606540,Please tell me if there is a plate somewhere in the room.,False,4,21
+0,10,399280737,Is there a loaf of bread somewhere in the room?,True,12,21
+0,10,475533062,Is there a loaf of bread somewhere nearby?,False,12,21
+0,11,894686551,Is there a spoon somewhere in the room?,False,1,21
+0,11,399331382,Do we have any spoons?,True,1,21
+0,11,950102521,Do we have any apples?,True,9,21
+0,11,794074831,Is there an apple somewhere nearby?,False,9,21
+0,12,976121083,Is there a fork somewhere in the room?,True,3,21
+0,12,835010180,Please tell me if there is a fork somewhere in the room.,False,3,21
+0,12,884414654,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,12,981835652,Please tell me if there is a bowl somewhere in the room.,True,7,21
+0,13,188932573,Is there an egg somewhere nearby?,True,5,21
+0,13,390045259,Is there an egg somewhere nearby?,False,5,21
+0,13,932216573,Is there a spoon somewhere nearby?,True,1,21
+0,13,801375902,Do we have any spoons?,False,1,21
+0,14,586362302,I think a bowl is in the room. Is that correct?,True,7,21
+0,14,457619952,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,14,312833448,Is there a loaf of bread somewhere nearby?,True,12,21
+0,14,320563527,Is there a loaf of bread somewhere nearby?,False,12,21
+0,15,940317809,Is there an egg somewhere in the room?,False,5,21
+0,15,719691392,Is there an egg in the room?,True,5,21
+0,15,912115946,Is there an egg somewhere in the room?,True,5,21
+0,15,38576759,Is there an egg somewhere in the room?,False,5,21
+0,16,908455656,Do we have any knives?,True,10,21
+0,16,581418699,Please tell me if there is a knife somewhere in the room.,False,10,21
+0,16,434015160,Please tell me if there is a loaf of bread somewhere in the room.,True,12,21
+0,16,591235958,Is there a loaf of bread in the room?,False,12,21
+0,17,261517328,Is there a container somewhere nearby?,True,11,21
+0,17,428341041,Is there a container somewhere in the room?,False,11,21
+0,17,621473818,Is there a plate in the room?,True,4,21
+0,17,122118421,I think a plate is in the room. Is that correct?,False,4,21
+0,18,737501798,Is there a spoon in the room?,False,1,21
+0,18,497721536,Is there a spoon somewhere nearby?,True,1,21
+0,18,224353231,Do we have any spoons?,True,1,21
+0,18,514346462,Is there a spoon somewhere in the room?,False,1,21
+0,19,209615207,Do we have any forks?,False,3,21
+0,19,670318126,I think a fork is in the room. Is that correct?,True,3,21
+0,19,648933298,Is there a tomato somewhere in the room?,True,6,21
+0,19,361911387,Is there a tomato somewhere in the room?,False,6,21
+0,20,492318274,Is there a loaf of bread somewhere in the room?,False,12,21
+0,20,899940345,Do we have any loaves of bread?,True,12,21
+0,20,976664862,I think a container is in the room. Is that correct?,False,11,21
+0,20,737081831,Is there a container somewhere in the room?,True,11,21
+0,21,173858426,Do we have any forks?,False,3,21
+0,21,615778350,Is there a fork somewhere in the room?,True,3,21
+0,21,479382064,I think a potato is in the room. Is that correct?,True,2,21
+0,21,611376034,Is there a potato somewhere in the room?,False,2,21
+0,22,868931619,Is there a plate somewhere in the room?,False,4,21
+0,22,80682367,Do we have any plates?,True,4,21
+0,22,791454229,Is there a plate in the room?,False,4,21
+0,22,501306028,Is there a plate in the room?,True,4,21
+0,23,569867167,Do we have any eggs?,True,5,21
+0,23,646110748,I think an egg is in the room. Is that correct?,False,5,21
+0,23,893544588,Is there a spoon in the room?,True,1,21
+0,23,836724403,Is there a spoon in the room?,False,1,21
+0,24,818191669,Please tell me if there is a plate somewhere in the room.,True,4,21
+0,24,413154865,Please tell me if there is a plate somewhere in the room.,False,4,21
+0,24,999718624,I think an apple is in the room. Is that correct?,False,9,21
+0,24,270999992,Is there an apple in the room?,True,9,21
+0,25,894769972,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,25,950046302,Is there a knife somewhere nearby?,False,10,21
+0,25,934763649,I think a container is in the room. Is that correct?,True,11,21
+0,25,846936761,Is there a container somewhere nearby?,False,11,21
+0,26,998564660,Is there a loaf of bread somewhere in the room?,True,12,21
+0,26,382673818,Do we have any loaves of bread?,False,12,21
+0,26,487358860,Is there a mug in the room?,True,13,21
+0,26,31694296,Please tell me if there is a mug somewhere in the room.,False,13,21
+0,27,342605180,Please tell me if there is a container somewhere in the room.,True,11,21
+0,27,828871244,Is there a container somewhere nearby?,False,11,21
+0,27,876319957,Is there a head of lettuce somewhere in the room?,True,8,21
+0,27,559911999,Is there a head of lettuce in the room?,False,8,21
+0,28,644554705,Is there a bowl somewhere nearby?,True,7,21
+0,28,700575408,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,28,768523861,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,28,136730942,Is there a tomato somewhere nearby?,False,6,21
+0,29,290747375,Is there a container in the room?,True,11,21
+0,29,814242062,I think a container is in the room. Is that correct?,False,11,21
+0,29,168791994,Is there a head of lettuce somewhere in the room?,False,8,21
+0,29,144389769,Is there a head of lettuce somewhere nearby?,True,8,21
+0,30,809248686,Is there a knife somewhere in the room?,True,10,21
+0,30,931336620,I think a knife is in the room. Is that correct?,False,10,21
+0,30,525062609,Is there a loaf of bread somewhere in the room?,True,12,21
+0,30,569229142,Is there a loaf of bread somewhere in the room?,False,12,21
+0,6,275418643,Is there a knife somewhere nearby?,True,10,21
+0,6,941793872,Is there a knife somewhere in the room?,False,10,21
+0,6,785570171,Is there a container in the room?,True,11,21
+0,6,937287098,Is there a container in the room?,False,11,21
+0,7,463677066,I think a container is in the room. Is that correct?,False,11,21
+0,7,180634546,Is there a container in the room?,True,11,21
+0,7,102989783,Is there a potato in the room?,False,2,21
+0,7,480267738,Do we have any potatoes?,True,2,21
+0,8,623152,I think a mug is in the room. Is that correct?,True,13,21
+0,8,422979308,Please tell me if there is a mug somewhere in the room.,False,13,21
+0,8,59474515,Please tell me if there is a fork somewhere in the room.,True,3,21
+0,8,512669354,Is there a fork somewhere in the room?,False,3,21
+0,9,15642232,Please tell me if there is a loaf of bread somewhere in the room.,True,12,21
+0,9,161140295,I think a loaf of bread is in the room. Is that correct?,False,12,21
+0,9,201363597,Please tell me if there is a container somewhere in the room.,True,11,21
+0,9,153928058,Is there a container somewhere in the room?,False,11,21
+0,10,519754748,Please tell me if there is a spoon somewhere in the room.,True,1,21
+0,10,694414971,I think a spoon is in the room. Is that correct?,False,1,21
+0,10,832135946,Is there a knife somewhere in the room?,True,10,21
+0,10,590814786,I think a knife is in the room. Is that correct?,False,10,21
+0,11,554715057,Please tell me if there is a head of lettuce somewhere in the room.,True,8,21
+0,11,859491088,Is there a head of lettuce somewhere in the room?,False,8,21
+0,11,882346259,Please tell me if there is a potato somewhere in the room.,True,2,21
+0,11,418817848,Is there a potato somewhere in the room?,False,2,21
+0,12,822441832,Is there a fork somewhere nearby?,True,3,21
+0,12,864938434,I think a fork is in the room. Is that correct?,False,3,21
+0,12,414929154,Do we have any heads of lettuce?,True,8,21
+0,12,309980582,Is there a head of lettuce somewhere nearby?,False,8,21
+0,13,288213135,Is there a mug somewhere nearby?,True,13,21
+0,13,616083780,Do we have any mugs?,False,13,21
+0,13,737096822,I think an egg is in the room. Is that correct?,True,5,21
+0,13,15662475,I think an egg is in the room. Is that correct?,False,5,21
+0,14,91778833,Do we have any bowls?,True,7,21
+0,14,10100663,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,14,872338822,Is there a head of lettuce somewhere nearby?,True,8,21
+0,14,915998001,I think a head of lettuce is in the room. Is that correct?,False,8,21
+0,15,649689426,Please tell me if there is a loaf of bread somewhere in the room.,True,12,21
+0,15,564946612,Is there a loaf of bread somewhere in the room?,False,12,21
+0,15,583448190,Is there a loaf of bread in the room?,False,12,21
+0,15,278079803,Please tell me if there is a loaf of bread somewhere in the room.,True,12,21
+0,16,877068787,Is there a spoon somewhere nearby?,True,1,21
+0,16,592625080,Please tell me if there is a spoon somewhere in the room.,False,1,21
+0,16,923621910,I think a tomato is in the room. Is that correct?,False,6,21
+0,16,154765933,Is there a tomato somewhere nearby?,True,6,21
+0,17,701138698,Is there a potato somewhere in the room?,True,2,21
+0,17,895890374,Is there a potato somewhere nearby?,False,2,21
+0,17,537871081,Do we have any potatoes?,False,2,21
+0,17,993228054,Please tell me if there is a potato somewhere in the room.,True,2,21
+0,18,120516640,Is there an apple somewhere in the room?,False,9,21
+0,18,815877120,Is there an apple somewhere in the room?,True,9,21
+0,18,110261097,Is there a potato somewhere in the room?,True,2,21
+0,18,245153956,Do we have any potatoes?,False,2,21
+0,19,928015007,Do we have any loaves of bread?,False,12,21
+0,19,294474436,Is there a loaf of bread in the room?,True,12,21
+0,19,345340257,I think a tomato is in the room. Is that correct?,False,6,21
+0,19,227295489,Do we have any tomatoes?,True,6,21
+0,20,15664440,Do we have any apples?,False,9,21
+0,20,465421888,I think an apple is in the room. Is that correct?,True,9,21
+0,20,274844157,Do we have any loaves of bread?,False,12,21
+0,20,464278606,I think a loaf of bread is in the room. Is that correct?,True,12,21
+0,21,278910803,Do we have any spoons?,False,1,21
+0,21,238421467,I think a spoon is in the room. Is that correct?,True,1,21
+0,21,148087958,Is there a container in the room?,True,11,21
+0,21,931561139,I think a container is in the room. Is that correct?,False,11,21
+0,22,339695294,I think a plate is in the room. Is that correct?,True,4,21
+0,22,481116993,Is there a plate somewhere in the room?,False,4,21
+0,22,366030334,Is there a bowl in the room?,True,7,21
+0,22,757259409,Is there a bowl somewhere nearby?,False,7,21
+0,23,551599820,Is there a plate somewhere in the room?,True,4,21
+0,23,831815942,I think a plate is in the room. Is that correct?,False,4,21
+0,23,204906427,Is there a spoon somewhere in the room?,True,1,21
+0,23,292612062,I think a spoon is in the room. Is that correct?,False,1,21
+0,24,515670484,Please tell me if there is a container somewhere in the room.,True,11,21
+0,24,535781234,I think a container is in the room. Is that correct?,False,11,21
+0,24,292865162,Is there an apple somewhere nearby?,True,9,21
+0,24,696720225,I think an apple is in the room. Is that correct?,False,9,21
+0,25,202084189,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,25,515703398,Is there a knife somewhere nearby?,False,10,21
+0,25,46078008,Please tell me if there is a tomato somewhere in the room.,False,6,21
+0,25,188121185,Is there a tomato in the room?,True,6,21
+0,26,78876034,Do we have any heads of lettuce?,False,8,21
+0,26,957213959,I think a head of lettuce is in the room. Is that correct?,True,8,21
+0,26,506459241,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,26,729406032,I think a tomato is in the room. Is that correct?,False,6,21
+0,27,982899200,Do we have any eggs?,False,5,21
+0,27,926386787,Is there an egg somewhere nearby?,True,5,21
+0,27,354600456,Do we have any containers?,True,11,21
+0,27,685610007,Is there a container in the room?,False,11,21
+0,28,43266312,I think a knife is in the room. Is that correct?,False,10,21
+0,28,524455424,Do we have any knives?,True,10,21
+0,28,71245506,Do we have any forks?,False,3,21
+0,28,201390272,Is there a fork somewhere nearby?,True,3,21
+0,29,226769052,Please tell me if there is a fork somewhere in the room.,True,3,21
+0,29,184001442,I think a fork is in the room. Is that correct?,False,3,21
+0,29,709144795,Do we have any spoons?,False,1,21
+0,29,906889506,I think a spoon is in the room. Is that correct?,True,1,21
+0,30,288336838,Is there a mug in the room?,True,13,21
+0,30,231077851,Do we have any mugs?,False,13,21
+0,30,41372212,Please tell me if there is an apple somewhere in the room.,True,9,21
+0,30,339215096,Is there an apple somewhere nearby?,False,9,21
+0,6,568551224,I think an apple is in the room. Is that correct?,True,9,21
+0,6,218361983,Please tell me if there is an apple somewhere in the room.,False,9,21
+0,6,602218026,Do we have any apples?,True,9,21
+0,6,729874263,Is there an apple in the room?,False,9,21
+0,7,3044822,Do we have any forks?,True,3,21
+0,7,228103859,Is there a fork in the room?,False,3,21
+0,7,972890323,Do we have any mugs?,True,13,21
+0,7,596663712,I think a mug is in the room. Is that correct?,False,13,21
+0,8,683435929,Is there a plate somewhere nearby?,True,4,21
+0,8,329616231,Please tell me if there is a plate somewhere in the room.,False,4,21
+0,8,2309591,Do we have any spoons?,True,1,21
+0,8,618836164,Please tell me if there is a spoon somewhere in the room.,False,1,21
+0,9,187728567,Is there an egg in the room?,True,5,21
+0,9,923536189,Please tell me if there is an egg somewhere in the room.,False,5,21
+0,9,161105437,Is there a knife in the room?,True,10,21
+0,9,868667698,I think a knife is in the room. Is that correct?,False,10,21
+0,10,750640854,Please tell me if there is a head of lettuce somewhere in the room.,True,8,21
+0,10,201232231,Do we have any heads of lettuce?,False,8,21
+0,10,5542568,Is there a container somewhere in the room?,False,11,21
+0,10,868475171,I think a container is in the room. Is that correct?,True,11,21
+0,11,465593231,I think a plate is in the room. Is that correct?,True,4,21
+0,11,666756240,I think a plate is in the room. Is that correct?,False,4,21
+0,11,655069105,I think an egg is in the room. Is that correct?,True,5,21
+0,11,209688940,Is there an egg somewhere nearby?,False,5,21
+0,12,826588990,Is there a spoon somewhere nearby?,True,1,21
+0,12,829582,Please tell me if there is a spoon somewhere in the room.,False,1,21
+0,12,955588633,I think a loaf of bread is in the room. Is that correct?,True,12,21
+0,12,152060660,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,13,115868450,I think an apple is in the room. Is that correct?,True,9,21
+0,13,388000546,Please tell me if there is an apple somewhere in the room.,False,9,21
+0,13,651841958,Is there a potato somewhere in the room?,False,2,21
+0,13,281361063,I think a potato is in the room. Is that correct?,True,2,21
+0,14,820319945,Is there a mug somewhere in the room?,True,13,21
+0,14,257858878,Is there a mug in the room?,False,13,21
+0,14,180249713,Is there a knife somewhere in the room?,True,10,21
+0,14,758682923,Please tell me if there is a knife somewhere in the room.,False,10,21
+0,15,955393914,Please tell me if there is a loaf of bread somewhere in the room.,True,12,21
+0,15,364366625,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,15,747212051,Is there a loaf of bread somewhere in the room?,True,12,21
+0,15,112192286,Do we have any loaves of bread?,False,12,21
+0,16,342225766,Is there a spoon somewhere in the room?,True,1,21
+0,16,285910176,I think a spoon is in the room. Is that correct?,False,1,21
+0,16,94089398,Is there an egg somewhere in the room?,True,5,21
+0,16,248212035,Please tell me if there is an egg somewhere in the room.,False,5,21
+0,17,728702885,Is there a loaf of bread in the room?,True,12,21
+0,17,317333740,Is there a loaf of bread somewhere nearby?,False,12,21
+0,17,691973338,Is there a loaf of bread in the room?,True,12,21
+0,17,560588608,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,18,975088487,I think a knife is in the room. Is that correct?,True,10,21
+0,18,822466036,Do we have any knives?,False,10,21
+0,18,729052207,Is there a spoon in the room?,True,1,21
+0,18,250615274,Please tell me if there is a spoon somewhere in the room.,False,1,21
+0,19,888803402,Do we have any potatoes?,True,2,21
+0,19,988114289,Do we have any potatoes?,False,2,21
+0,19,598688586,Is there an apple in the room?,True,9,21
+0,19,36040038,I think an apple is in the room. Is that correct?,False,9,21
+0,20,510578595,Please tell me if there is a spoon somewhere in the room.,False,1,21
+0,20,956682873,Please tell me if there is a spoon somewhere in the room.,True,1,21
+0,20,428906050,Do we have any forks?,True,3,21
+0,20,707179881,Is there a fork somewhere in the room?,False,3,21
+0,21,396180979,I think a potato is in the room. Is that correct?,True,2,21
+0,21,749782382,Do we have any potatoes?,False,2,21
+0,21,141113101,Is there a potato somewhere in the room?,True,2,21
+0,21,250881773,I think a potato is in the room. Is that correct?,False,2,21
+0,22,106219526,Is there a bowl in the room?,True,7,21
+0,22,867521951,Is there a bowl somewhere in the room?,False,7,21
+0,22,970030285,Do we have any containers?,True,11,21
+0,22,14709331,Do we have any containers?,False,11,21
+0,23,848577286,Is there a bowl in the room?,True,7,21
+0,23,461520372,Is there a bowl somewhere in the room?,False,7,21
+0,23,116072988,I think a knife is in the room. Is that correct?,True,10,21
+0,23,283525466,Is there a knife somewhere nearby?,False,10,21
+0,24,943476603,Is there an egg somewhere in the room?,True,5,21
+0,24,547521850,Please tell me if there is an egg somewhere in the room.,False,5,21
+0,24,776643984,I think an apple is in the room. Is that correct?,False,9,21
+0,24,273288263,Please tell me if there is an apple somewhere in the room.,True,9,21
+0,25,680784518,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,25,911992038,Is there a knife in the room?,False,10,21
+0,25,554724150,Is there a bowl somewhere nearby?,False,7,21
+0,25,965172070,Please tell me if there is a bowl somewhere in the room.,True,7,21
+0,26,681530528,Do we have any containers?,True,11,21
+0,26,741280868,Please tell me if there is a container somewhere in the room.,False,11,21
+0,26,106933100,Is there a loaf of bread in the room?,True,12,21
+0,26,683427062,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,27,825092929,Do we have any apples?,False,9,21
+0,27,771004159,Is there an apple somewhere nearby?,True,9,21
+0,27,734340378,Is there a knife somewhere nearby?,True,10,21
+0,27,762587891,Is there a knife somewhere nearby?,False,10,21
+0,28,791349662,Is there a head of lettuce in the room?,False,8,21
+0,28,24578006,Do we have any heads of lettuce?,True,8,21
+0,28,758115727,Is there a knife somewhere nearby?,False,10,21
+0,28,576930318,Is there a knife in the room?,True,10,21
+0,29,764915027,Is there a mug somewhere in the room?,True,13,21
+0,29,857395521,Is there a mug somewhere in the room?,False,13,21
+0,29,640001396,Is there a head of lettuce somewhere nearby?,True,8,21
+0,29,696322250,Is there a head of lettuce somewhere nearby?,False,8,21
+0,30,209981621,Please tell me if there is a plate somewhere in the room.,False,4,21
+0,30,972766210,Is there a plate somewhere in the room?,True,4,21
+0,30,201687491,I think a mug is in the room. Is that correct?,True,13,21
+0,30,185858070,Please tell me if there is a mug somewhere in the room.,False,13,21
+0,6,371040533,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,6,545058895,Is there a loaf of bread somewhere nearby?,True,12,21
+0,6,125715044,I think a potato is in the room. Is that correct?,False,2,21
+0,6,924714424,I think a potato is in the room. Is that correct?,True,2,21
+0,7,409479096,Please tell me if there is a knife somewhere in the room.,True,10,21
+0,7,819035205,Do we have any knives?,False,10,21
+0,7,416789831,Is there a potato in the room?,True,2,21
+0,7,778664585,Is there a potato somewhere in the room?,False,2,21
+0,8,6944923,Do we have any forks?,True,3,21
+0,8,970924750,Is there a fork somewhere in the room?,False,3,21
+0,8,771294316,Is there a plate somewhere nearby?,False,4,21
+0,8,859212775,Is there a plate somewhere in the room?,True,4,21
+0,9,959708124,Do we have any knives?,True,10,21
+0,9,222074823,Do we have any knives?,False,10,21
+0,9,725960271,Do we have any apples?,False,9,21
+0,9,474044168,Do we have any apples?,True,9,21
+0,10,798565641,Do we have any containers?,True,11,21
+0,10,494589852,I think a container is in the room. Is that correct?,False,11,21
+0,10,607824513,Is there an egg somewhere nearby?,True,5,21
+0,10,941817608,Please tell me if there is an egg somewhere in the room.,False,5,21
+0,11,579309396,Is there a loaf of bread somewhere in the room?,True,12,21
+0,11,450189064,Do we have any loaves of bread?,False,12,21
+0,11,427306562,Is there a tomato somewhere nearby?,False,6,21
+0,11,949554508,Is there a tomato somewhere nearby?,True,6,21
+0,12,594581521,I think a head of lettuce is in the room. Is that correct?,True,8,21
+0,12,186917707,Is there a head of lettuce somewhere nearby?,False,8,21
+0,12,482009395,Please tell me if there is a fork somewhere in the room.,True,3,21
+0,12,759067480,Is there a fork somewhere in the room?,False,3,21
+0,13,287729412,I think a potato is in the room. Is that correct?,True,2,21
+0,13,457281937,Do we have any potatoes?,False,2,21
+0,13,108554674,Please tell me if there is a bowl somewhere in the room.,True,7,21
+0,13,270436126,Is there a bowl somewhere in the room?,False,7,21
+0,14,918926724,Is there an apple somewhere in the room?,True,9,21
+0,14,543984396,Is there an apple in the room?,False,9,21
+0,14,634062912,Please tell me if there is a fork somewhere in the room.,True,3,21
+0,14,245311016,Is there a fork in the room?,False,3,21
+0,15,552678168,Is there an egg somewhere in the room?,True,5,21
+0,15,536679432,I think an egg is in the room. Is that correct?,False,5,21
+0,15,646998439,Do we have any potatoes?,True,2,21
+0,15,451666513,Please tell me if there is a potato somewhere in the room.,False,2,21
+0,16,638235075,I think a potato is in the room. Is that correct?,True,2,21
+0,16,123788530,I think a potato is in the room. Is that correct?,False,2,21
+0,16,890187411,Is there a plate somewhere in the room?,False,4,21
+0,16,927965351,I think a plate is in the room. Is that correct?,True,4,21
+0,17,810794022,I think an egg is in the room. Is that correct?,True,5,21
+0,17,225904697,I think an egg is in the room. Is that correct?,False,5,21
+0,17,279267589,Is there a potato somewhere nearby?,True,2,21
+0,17,119604727,Is there a potato somewhere nearby?,False,2,21
+0,18,420930891,Is there a head of lettuce in the room?,True,8,21
+0,18,810937456,Please tell me if there is a head of lettuce somewhere in the room.,False,8,21
+0,18,479794426,Is there a plate in the room?,False,4,21
+0,18,709000815,I think a plate is in the room. Is that correct?,True,4,21
+0,19,106489434,Is there a potato in the room?,True,2,21
+0,19,49355670,Is there a potato in the room?,False,2,21
+0,19,193692041,Is there an apple somewhere nearby?,False,9,21
+0,19,145104759,I think an apple is in the room. Is that correct?,True,9,21
+0,20,381345461,I think a plate is in the room. Is that correct?,False,4,21
+0,20,470145006,Is there a plate somewhere nearby?,True,4,21
+0,20,751697434,Is there a fork somewhere nearby?,True,3,21
+0,20,299442361,Is there a fork in the room?,False,3,21
+0,21,720248367,Please tell me if there is a fork somewhere in the room.,True,3,21
+0,21,649620819,Is there a fork in the room?,False,3,21
+0,21,363476668,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,21,351005263,Is there a loaf of bread somewhere nearby?,True,12,21
+0,22,337387198,I think a knife is in the room. Is that correct?,True,10,21
+0,22,512758505,Is there a knife somewhere nearby?,False,10,21
+0,22,692892511,Is there a bowl somewhere nearby?,True,7,21
+0,22,847516651,Is there a bowl in the room?,False,7,21
+0,23,498521661,Do we have any mugs?,True,13,21
+0,23,72850593,Is there a mug somewhere nearby?,False,13,21
+0,23,408745304,Is there a container somewhere nearby?,True,11,21
+0,23,735055633,Is there a container somewhere nearby?,False,11,21
+0,24,382460858,Is there a knife in the room?,True,10,21
+0,24,545249443,Do we have any knives?,False,10,21
+0,24,487628467,Is there a head of lettuce in the room?,False,8,21
+0,24,596845371,Is there a head of lettuce somewhere nearby?,True,8,21
+0,25,184780141,Is there an egg somewhere nearby?,True,5,21
+0,25,941544639,I think an egg is in the room. Is that correct?,False,5,21
+0,25,489413749,I think a potato is in the room. Is that correct?,True,2,21
+0,25,232132522,Is there a potato in the room?,False,2,21
+0,26,916009459,Is there an apple in the room?,False,9,21
+0,26,561794852,I think an apple is in the room. Is that correct?,True,9,21
+0,26,966818261,Do we have any loaves of bread?,False,12,21
+0,26,30372454,Is there a loaf of bread in the room?,True,12,21
+0,27,373397443,Please tell me if there is a mug somewhere in the room.,True,13,21
+0,27,656835157,Is there a mug somewhere nearby?,False,13,21
+0,27,434672545,Is there a tomato in the room?,True,6,21
+0,27,214020505,Is there a tomato somewhere nearby?,False,6,21
+0,28,816965058,I think an egg is in the room. Is that correct?,True,5,21
+0,28,385225380,Is there an egg in the room?,False,5,21
+0,28,793973041,I think a plate is in the room. Is that correct?,True,4,21
+0,28,443299734,Is there a plate somewhere in the room?,False,4,21
+0,29,133643888,Please tell me if there is a plate somewhere in the room.,False,4,21
+0,29,73024663,Please tell me if there is a plate somewhere in the room.,True,4,21
+0,29,744993688,Is there a potato in the room?,True,2,21
+0,29,914638111,Is there a potato somewhere in the room?,False,2,21
+0,30,72112804,Do we have any forks?,False,3,21
+0,30,254260227,Is there a fork in the room?,True,3,21
+0,30,368924110,Is there a tomato somewhere nearby?,True,6,21
+0,30,757336234,Please tell me if there is a tomato somewhere in the room.,False,6,21
+0,6,709211276,Please tell me if there is an apple somewhere in the room.,True,9,21
+0,6,774004882,Is there an apple in the room?,False,9,21
+0,6,683231365,Do we have any apples?,False,9,21
+0,6,527068498,Is there an apple somewhere nearby?,True,9,21
+0,7,102829545,Do we have any forks?,False,3,21
+0,7,52695939,Is there a fork in the room?,True,3,21
+0,7,116198783,Is there an egg somewhere in the room?,True,5,21
+0,7,449567043,I think an egg is in the room. Is that correct?,False,5,21
+0,8,879343732,Do we have any forks?,False,3,21
+0,8,798749626,Please tell me if there is a fork somewhere in the room.,True,3,21
+0,8,955263762,Please tell me if there is a container somewhere in the room.,True,11,21
+0,8,752201645,Is there a container somewhere in the room?,False,11,21
+0,9,112607870,Please tell me if there is a container somewhere in the room.,False,11,21
+0,9,592949049,Do we have any containers?,True,11,21
+0,9,197843298,Please tell me if there is a potato somewhere in the room.,True,2,21
+0,9,885116336,Is there a potato in the room?,False,2,21
+0,10,897068147,Is there a plate in the room?,False,4,21
+0,10,302634446,Is there a plate somewhere in the room?,True,4,21
+0,10,672474229,Do we have any spoons?,True,1,21
+0,10,793197390,Is there a spoon somewhere in the room?,False,1,21
+0,11,719327549,Is there a tomato somewhere in the room?,False,6,21
+0,11,255370901,Is there a tomato somewhere in the room?,True,6,21
+0,11,231294622,Is there a spoon somewhere in the room?,False,1,21
+0,11,288952349,Do we have any spoons?,True,1,21
+0,12,312313645,Do we have any tomatoes?,True,6,21
+0,12,976700294,Is there a tomato somewhere nearby?,False,6,21
+0,12,368928527,Please tell me if there is a container somewhere in the room.,True,11,21
+0,12,24716059,Is there a container somewhere in the room?,False,11,21
+0,13,688592559,Is there a tomato somewhere in the room?,False,6,21
+0,13,883808609,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,13,687044531,Is there a fork somewhere in the room?,False,3,21
+0,13,12650934,Do we have any forks?,True,3,21
+0,14,325606964,Is there a fork in the room?,False,3,21
+0,14,137722248,I think a fork is in the room. Is that correct?,True,3,21
+0,14,708283985,Is there a fork in the room?,False,3,21
+0,14,197088433,Is there a fork in the room?,True,3,21
+0,15,744564469,Is there a tomato in the room?,False,6,21
+0,15,7321206,Please tell me if there is a tomato somewhere in the room.,True,6,21
+0,15,368776771,Do we have any loaves of bread?,True,12,21
+0,15,332423434,Is there a loaf of bread in the room?,False,12,21
+0,16,842592274,Is there a spoon somewhere in the room?,False,1,21
+0,16,710279963,Is there a spoon somewhere in the room?,True,1,21
+0,16,608844198,Do we have any potatoes?,True,2,21
+0,16,504918207,I think a potato is in the room. Is that correct?,False,2,21
+0,17,335138799,Is there a knife somewhere nearby?,True,10,21
+0,17,643463677,I think a knife is in the room. Is that correct?,False,10,21
+0,17,745720094,Please tell me if there is a spoon somewhere in the room.,False,1,21
+0,17,992249290,I think a spoon is in the room. Is that correct?,True,1,21
+0,18,867227158,Is there a knife somewhere nearby?,True,10,21
+0,18,551253262,Is there a knife somewhere nearby?,False,10,21
+0,18,567167403,Is there a plate somewhere nearby?,True,4,21
+0,18,244032688,Do we have any plates?,False,4,21
+0,19,612752665,Please tell me if there is an egg somewhere in the room.,True,5,21
+0,19,697654570,Please tell me if there is an egg somewhere in the room.,False,5,21
+0,19,135568625,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,19,916936953,Is there a loaf of bread in the room?,True,12,21
+0,20,643826406,Please tell me if there is a spoon somewhere in the room.,True,1,21
+0,20,812049710,Is there a spoon in the room?,False,1,21
+0,20,826312729,Is there a plate somewhere in the room?,True,4,21
+0,20,2166526,Is there a plate in the room?,False,4,21
+0,21,756544421,Is there a potato somewhere nearby?,True,2,21
+0,21,540886863,I think a potato is in the room. Is that correct?,False,2,21
+0,21,315902994,Please tell me if there is a loaf of bread somewhere in the room.,False,12,21
+0,21,429820654,Is there a loaf of bread somewhere nearby?,True,12,21
+0,22,567813571,Is there an egg in the room?,True,5,21
+0,22,960669742,Is there an egg somewhere nearby?,False,5,21
+0,22,84162200,Please tell me if there is a bowl somewhere in the room.,False,7,21
+0,22,170956563,Is there a bowl somewhere in the room?,True,7,21
+0,23,247218372,Is there an apple somewhere in the room?,False,9,21
+0,23,132204182,Is there an apple in the room?,True,9,21
+0,23,541679252,Please tell me if there is a fork somewhere in the room.,True,3,21
+0,23,291183811,Is there a fork somewhere nearby?,False,3,21
+0,24,826788863,I think an egg is in the room. Is that correct?,True,5,21
+0,24,984030078,Is there an egg in the room?,False,5,21
+0,24,834161851,Is there a bowl in the room?,True,7,21
+0,24,440929884,Is there a bowl somewhere nearby?,False,7,21
+0,25,207098251,Do we have any forks?,True,3,21
+0,25,435464505,I think a fork is in the room. Is that correct?,False,3,21
+0,25,848079021,Is there a fork somewhere in the room?,True,3,21
+0,25,35827823,I think a fork is in the room. Is that correct?,False,3,21
+0,26,920174152,I think a spoon is in the room. Is that correct?,False,1,21
+0,26,737298422,I think a spoon is in the room. Is that correct?,True,1,21
+0,26,617080378,Do we have any potatoes?,True,2,21
+0,26,854697261,Please tell me if there is a potato somewhere in the room.,False,2,21
+0,27,305971472,Do we have any bowls?,True,7,21
+0,27,201719470,Do we have any bowls?,False,7,21
+0,27,139352566,Is there a spoon in the room?,True,1,21
+0,27,205878619,Is there a spoon somewhere nearby?,False,1,21
+0,28,189751917,Is there a fork somewhere nearby?,True,3,21
+0,28,128470195,Is there a fork somewhere nearby?,False,3,21
+0,28,289305385,I think a plate is in the room. Is that correct?,True,4,21
+0,28,473265804,I think a plate is in the room. Is that correct?,False,4,21
+0,29,635850101,Is there a spoon somewhere nearby?,False,1,21
+0,29,302653749,Is there a spoon somewhere in the room?,True,1,21
+0,29,522239396,Is there a tomato somewhere nearby?,True,6,21
+0,29,645111051,Is there a tomato somewhere in the room?,False,6,21
+0,30,223210716,Do we have any apples?,False,9,21
+0,30,953010567,I think an apple is in the room. Is that correct?,True,9,21
+0,30,801954176,I think a potato is in the room. Is that correct?,True,2,21
+0,30,608814007,Is there a potato somewhere in the room?,False,2,21
