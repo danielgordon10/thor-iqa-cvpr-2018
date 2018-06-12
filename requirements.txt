@@ -14,4 +14,4 @@ mss
 progressbar2
 tensorflow-gpu==1.5.0
 requests
-ai2thor==0.0.31
+ai2thor==0.0.32

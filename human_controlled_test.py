@@ -140,7 +140,7 @@ class PersonGameState(object):
 
         self.s_t = self.event.frame
         self.detection_image = self.s_t.copy()
-        self.s_t_depth = self.event.frame_depth
+        self.s_t_depth = self.event.depth_frame
 
         boxes = []
         scores = []

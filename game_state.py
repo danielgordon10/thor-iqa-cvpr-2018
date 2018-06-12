@@ -52,7 +52,7 @@ class GameState(object):
             if self.times[0, 1] % 100 == 0:
                 print('depth time  %.3f' % (self.times[0, 0] / self.times[0, 1]))
         elif constants.RENDER_DEPTH_IMAGE:
-            self.s_t_depth = game_util.imresize(self.event.frame_depth, (constants.SCREEN_HEIGHT, constants.SCREEN_WIDTH), rescale=False)
+            self.s_t_depth = game_util.imresize(self.event.depth_frame, (constants.SCREEN_HEIGHT, constants.SCREEN_WIDTH), rescale=False)
 
         if (constants.GT_OBJECT_DETECTION or constants.OBJECT_DETECTION or
                 (constants.END_TO_END_BASELINE and constants.USE_OBJECT_DETECTION_AS_INPUT) and

@@ -48,7 +48,7 @@ def test_depth_and_ids_images(env):
         event = env.step({'action': 'RotateLeft'})
         event = env.step({'action': 'MoveAhead'})
 
-        quantized_depth = (event.frame_depth / 5000 * 255).astype(np.uint8)
+        quantized_depth = (event.depth_frame / 5000 * 255).astype(np.uint8)
         compare_image = scipy.misc.imread(os.path.join('thor_tests', 'test_images', 'test_image_depth_%d.png' % scene_num))
         assert_image(compare_image, quantized_depth)
 
