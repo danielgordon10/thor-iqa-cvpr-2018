@@ -45,7 +45,12 @@ PREDICT_DEPTH = not GT_OBJECT_DETECTION
 
 ########################################################################################################################
 # Task specific hyperparameters
+# Defaults
+RENDER_DEPTH_IMAGE = False
+RENDER_CLASS_IMAGE = False
+RENDER_OBJECT_IMAGE = False
 
+# Per task
 if TASK == 'navigation':
     RL = False
     SUPERVISED = True
