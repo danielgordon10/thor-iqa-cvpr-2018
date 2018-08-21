@@ -36,7 +36,7 @@ This code is known to work in any of the following configurations
 1. Python 3.5, 3.6, possibly Python 2.7 but may require a few function name changes.
 2. CUDA 8, CUDA 9.
 3. Ubuntu 14.04, Ubuntu 16.04, Possibly Mac OSX.
-4. TensorFlow 1.2 - 1.5.
+4. TensorFlow 1.2 - 1.5. Special Note: Tensorflow installed via pip only works as follows CUDA 8 = tensorflow-gpu<1.5. CUDA 9 = tensorflow-gpu>=1.5. Requirements auto-installs 1.5, but you can easily change that to 1.4 to be compatible with CUDA 8.
 
 It is likely to work in other setups as well, but I have not personally checked. If you do find issues, please be sure to tell me and I will see what I can do.
 That being said, I reserve the right to ignore these requests, especially if they involve Windows.
