@@ -11,7 +11,7 @@ import os
 #   - rl: use the rl controller
 #   - end_to_end_baseline: run the A3C style agent
 TASK = 'rl'
-DEBUG = True
+DEBUG = False
 EVAL = False
 
 
@@ -164,8 +164,8 @@ elif not EVAL:
     RUN_TEST = False
 else:
     X_DISPLAY = '0.0'
-    GPU_ID = '5'
-    DARKNET_GPU = 4
+    GPU_ID = '0'
+    DARKNET_GPU = 1
     TRAIN = False
     DRAWING = False
     PARALLEL_SIZE = 8

@@ -80,6 +80,8 @@ def main():
     ep_rewards = []
     invalid_percents = []
     time_lock = threading.Lock()
+    if not os.path.exists(constants.LOG_FILE):
+        os.makedirs(constants.LOG_FILE)
     out_file = open(constants.LOG_FILE + '/results_' + constants.TEST_SET + '_' + py_util.get_time_str() + '.csv', 'w')
     out_file.write(constants.LOG_FILE + '\n')
     out_file.write('question_type, answer_correct, answer, gt_answer, episode_length, invalid_action_percent, scene number, seed, required_interaction\n')
