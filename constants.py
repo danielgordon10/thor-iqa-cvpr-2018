@@ -39,7 +39,7 @@ GT_OBJECT_DETECTION = False
 
 USED_QUESTION_TYPES = {0, 1, 2}
 
-TEST_SET = 'test'  # options train_test -> unseen questions on seen rooms, test -> unseen rooms
+TEST_SET = 'unseen_scenes'  # unseen_scenes, seen_scenes
 
 PREDICT_DEPTH = not GT_OBJECT_DETECTION
 

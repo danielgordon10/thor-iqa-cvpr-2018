@@ -61,6 +61,6 @@ def combine(dataset_type, question_type):
 
 
 if __name__ == '__main__':
-    for dataset_type in ['train', 'test', 'train_test']:
+    for dataset_type in ['train', 'val/unseen_scenes', 'val/seen_scenes']:
         for question_type in ['existence', 'contains', 'counting']:
             combine(dataset_type, question_type)

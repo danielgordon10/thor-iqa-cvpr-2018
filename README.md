@@ -12,8 +12,8 @@ You should be able to set up THOR using the simple pip install command, but you 
 
 [questions](questions) contains three sub-folders:
 - [train](questions/train): Training questions in the first 25 rooms
-- [test](questions/test): Test questeions in the remaining 5 rooms
-- [train_test](questions/train_test): Test questions in the first 25 rooms
+- [unseen_scenes](questions/val/unseen_scenes): Test questeions in the remaining 5 rooms
+- [seen_scenes](questions/val/seen_scenes): Test questions in the first 25 rooms
 
 Each of those sub-folders contain three more subfolders for the different question types:
 - [data_existence](questions/train/data_existence): "Is there a mug in the room?"
@@ -106,8 +106,8 @@ python eval.py
 The results will be saved in the same path as the Tensorboard logs in a timestamped csv file.
 Evaluation is currently only supported for **rl** and **end_to_end_baseline**.
 
-If you want to evalate on questions in unseen rooms, then set TEST_SET to 'test' in [constants.py](constants.py).
-If instead you want to evaluate on questions from the training rooms, set TEST_SET to 'train_test'.
+If you want to evalate on questions in unseen rooms, then set TEST_SET to 'unseen_scenes' in [constants.py](constants.py).
+If instead you want to evaluate on questions from the training rooms, set TEST_SET to 'seen_scenes'.
 
 ## Visualizations
 During training, it may be useful to view certain bits of output. 

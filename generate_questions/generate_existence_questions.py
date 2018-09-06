@@ -23,11 +23,11 @@ else:
 
 
 def main(dataset_type):
-    if dataset_type == 'test':
+    if dataset_type == 'val/unseen_scenes':
         num_questions_per_scene = round(100.0 / PARALLEL_SIZE)
         scene_numbers = constants.TEST_SCENE_NUMBERS
         num_samples_per_scene = 8
-    elif dataset_type == 'train_test':
+    elif dataset_type == 'val/seen_scenes':
         num_questions_per_scene = round(8.0 / PARALLEL_SIZE)
         scene_numbers = constants.TRAIN_SCENE_NUMBERS
         num_samples_per_scene = 4
@@ -194,5 +194,5 @@ def main(dataset_type):
 
 if __name__ == '__main__':
     main('train')
-    main('test')
-    main('train_test')
+    main('val/unseen_scenes')
+    main('val/seen_scenes')

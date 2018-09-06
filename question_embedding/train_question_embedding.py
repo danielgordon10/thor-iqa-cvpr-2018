@@ -69,7 +69,7 @@ def run():
         data_train = {key: np.array(val) for key, val in data_train.items()}
         num_data_train = data_train['questions'].shape[0]
 
-        data_test = sorted(glob.glob(os.path.join('questions', 'train_test', '*', '*.csv')))
+        data_test = sorted(glob.glob(os.path.join('questions', 'val', constants.TEST_SET, '*', '*.csv')))
         data_test = [parse_question.get_sequences(filename) for filename in data_test]
         data_test_dict = {}
         for data in data_test:
