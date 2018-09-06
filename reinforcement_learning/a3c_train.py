@@ -259,7 +259,7 @@ def run():
                         last_global_t_image = global_t
                     if global_t - last_global_t > 10000:
                         print('Save checkpoint at timestamp %d' % global_t)
-                        tf_util.save(saver, constants.CHECKPOINT_DIR, global_t)
+                        tf_util.save(saver, sess, constants.CHECKPOINT_DIR, global_t)
                         last_global_t = global_t
 
         def test_function():
