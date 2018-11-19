@@ -586,10 +586,10 @@ class QuestionGameState(GameState):
             self.process_frame()
 
             if action['action'] == 'OpenObject':
-                if self.question_type_ind == 2 and action['objectId'].split('|')[0] != self.question_target[1]:
+                if self.question_type_ind == 2 and action['objectId'].split('|')[0] != constants.OBJECTS[self.question_target[1]]:
                     self.reward -= 1.0
                 elif action['objectId'] not in self.opened_receptacles:
-                    if self.question_type_ind == 2 and action['objectId'].split('|')[0] == self.question_target[1]:
+                    if self.question_type_ind == 2 and action['objectId'].split('|')[0] == constants.OBJECTS[self.question_target[1]]:
                         self.reward += 5.0
                     else:
                         self.reward += 0.1
