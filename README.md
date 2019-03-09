@@ -74,7 +74,7 @@ invoke startx <gpu-to-start-on> <display-to-set> &
 ```
 This will start the X Server running in a background process. If for whatever reason display 0 is already in use,
 you can set the display to some other number, but you will also need to change it in [constants.py](constants.py).
-For example if you ruun
+For example if you run
 ```bash
 invoke startx 2 3 &
 ```
