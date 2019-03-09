@@ -8,7 +8,7 @@ It also provides an interface for reading the questions and generating new quest
 ## If all you want is IQUAD-V1:
 IQUAD, the Interactive Question Answering Dataset, is included in this repository.
 If you do not want the rest of the code, then you may find what is included in the [questions](questions) folder sufficient as long as you also have a working version of THOR.
-You should be able to set up THOR using the simple pip install command, but you may want to install the exact version specified in the [requirements.txt](reqirements.txt).
+You should be able to set up THOR using the simple pip install command, but you may want to install the exact version specified in the [requirements.txt](requirements.txt).
 
 [questions](questions) contains three sub-folders:
 - [train](questions/train): Training questions in the first 25 rooms
@@ -74,7 +74,7 @@ invoke startx <gpu-to-start-on> <display-to-set> &
 ```
 This will start the X Server running in a background process. If for whatever reason display 0 is already in use,
 you can set the display to some other number, but you will also need to change it in [constants.py](constants.py).
-For example if you ruun
+For example if you run
 ```bash
 invoke startx 2 3 &
 ```
